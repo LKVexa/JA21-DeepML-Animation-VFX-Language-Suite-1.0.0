@@ -1,0 +1,16 @@
+deepml vfx 0.3
+module corpus.deepml_vfx.example_00089
+policy deterministic
+policy no_network
+particle_system Effect00089 {
+  emitter Main rate 99/s lifetime 2s seed 89
+  attribute position: vec3
+  attribute velocity: vec3
+  force gravity vec3(0,-9.81,0)
+  shader node ColorOverLife { input age output color }
+  material PortalMat { shader: ColorOverLife blend: additive }
+  light Glow { intensity: 9.2 color: rgb(0.2,0.5,1.0) }
+}
+render_pass MainPass inputs [Effect00089] target Color
+composite Color over SceneColor
+assert render_hash == "invalid-00089"

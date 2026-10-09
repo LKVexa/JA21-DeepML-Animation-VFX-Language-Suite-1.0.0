@@ -1,0 +1,6 @@
+deepml vfx 0.3
+module corpus.deepml_vfx.example_09007
+policy deterministic
+policy no_network
+effect Effect09007 { emitter E lifetime -1s }
+certify vfx Effect09007 profile strict

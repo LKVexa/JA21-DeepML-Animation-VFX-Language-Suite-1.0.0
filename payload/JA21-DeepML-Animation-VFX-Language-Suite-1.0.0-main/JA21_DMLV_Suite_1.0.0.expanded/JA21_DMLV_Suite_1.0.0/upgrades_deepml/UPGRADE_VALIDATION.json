@@ -1,0 +1,142 @@
+{
+  "status": "PASS",
+  "authority": "schema, hashes, standalone policy, metadata qualification and master/shard equality only",
+  "native_language_conformance": "not_tested",
+  "profile": "deepml.vfx",
+  "unique_master_records": 10000,
+  "datasets": [
+    {
+      "path": "corpus/technical/deepml_vfx_technical_corpus_10000.jsonl.gz",
+      "records": 10000,
+      "quarantined_records": 0,
+      "schema_hash_policy_errors": 0
+    },
+    {
+      "path": "corpus/technical/tech_01.jsonl.gz",
+      "records": 500,
+      "quarantined_records": 0,
+      "schema_hash_policy_errors": 0
+    },
+    {
+      "path": "corpus/technical/tech_02.jsonl.gz",
+      "records": 500,
+      "quarantined_records": 0,
+      "schema_hash_policy_errors": 0
+    },
+    {
+      "path": "corpus/technical/tech_03.jsonl.gz",
+      "records": 500,
+      "quarantined_records": 0,
+      "schema_hash_policy_errors": 0
+    },
+    {
+      "path": "corpus/technical/tech_04.jsonl.gz",
+      "records": 500,
+      "quarantined_records": 0,
+      "schema_hash_policy_errors": 0
+    },
+    {
+      "path": "corpus/technical/tech_05.jsonl.gz",
+      "records": 500,
+      "quarantined_records": 0,
+      "schema_hash_policy_errors": 0
+    },
+    {
+      "path": "corpus/technical/tech_06.jsonl.gz",
+      "records": 500,
+      "quarantined_records": 0,
+      "schema_hash_policy_errors": 0
+    },
+    {
+      "path": "corpus/technical/tech_07.jsonl.gz",
+      "records": 500,
+      "quarantined_records": 0,
+      "schema_hash_policy_errors": 0
+    },
+    {
+      "path": "corpus/technical/tech_08.jsonl.gz",
+      "records": 500,
+      "quarantined_records": 0,
+      "schema_hash_policy_errors": 0
+    },
+    {
+      "path": "corpus/technical/tech_09.jsonl.gz",
+      "records": 500,
+      "quarantined_records": 0,
+      "schema_hash_policy_errors": 0
+    },
+    {
+      "path": "corpus/technical/tech_10.jsonl.gz",
+      "records": 500,
+      "quarantined_records": 0,
+      "schema_hash_policy_errors": 0
+    },
+    {
+      "path": "corpus/technical/tech_11.jsonl.gz",
+      "records": 500,
+      "quarantined_records": 0,
+      "schema_hash_policy_errors": 0
+    },
+    {
+      "path": "corpus/technical/tech_12.jsonl.gz",
+      "records": 500,
+      "quarantined_records": 0,
+      "schema_hash_policy_errors": 0
+    },
+    {
+      "path": "corpus/technical/tech_13.jsonl.gz",
+      "records": 500,
+      "quarantined_records": 0,
+      "schema_hash_policy_errors": 0
+    },
+    {
+      "path": "corpus/technical/tech_14.jsonl.gz",
+      "records": 500,
+      "quarantined_records": 0,
+      "schema_hash_policy_errors": 0
+    },
+    {
+      "path": "corpus/technical/tech_15.jsonl.gz",
+      "records": 500,
+      "quarantined_records": 0,
+      "schema_hash_policy_errors": 0
+    },
+    {
+      "path": "corpus/technical/tech_16.jsonl.gz",
+      "records": 500,
+      "quarantined_records": 0,
+      "schema_hash_policy_errors": 0
+    },
+    {
+      "path": "corpus/technical/tech_17.jsonl.gz",
+      "records": 500,
+      "quarantined_records": 0,
+      "schema_hash_policy_errors": 0
+    },
+    {
+      "path": "corpus/technical/tech_18.jsonl.gz",
+      "records": 500,
+      "quarantined_records": 0,
+      "schema_hash_policy_errors": 0
+    },
+    {
+      "path": "corpus/technical/tech_19.jsonl.gz",
+      "records": 500,
+      "quarantined_records": 0,
+      "schema_hash_policy_errors": 0
+    },
+    {
+      "path": "corpus/technical/tech_20.jsonl.gz",
+      "records": 500,
+      "quarantined_records": 0,
+      "schema_hash_policy_errors": 0
+    }
+  ],
+  "failures": [],
+  "validator_engine": {
+    "package": "jsonschema",
+    "version": "4.25.1",
+    "draft": "2020-12",
+    "external_references": "refused"
+  }
+}

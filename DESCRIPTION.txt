@@ -1,0 +1,1 @@
+Explore language design for particles, fluids, cloth, shaders, materials, and render graphs with JA21 DeepML Animation VFX. The suite combines 10,000 technical records, 1,000 source scripts, an 18-chapter textbook, and offline tools for teaching, retrieval, and implementation research. Modeled outcomes and native execution remain clearly qualified.

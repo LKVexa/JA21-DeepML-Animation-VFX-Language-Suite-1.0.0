@@ -1,0 +1,714 @@
+{
+  "language": "deepml.vfx",
+  "operators": [
+    {
+      "effects": "domain-specific; see examples",
+      "id": "deepml.vfx.operator.attribute",
+      "normalized": "declare_or_compose_attribute",
+      "omega": "OMEGA_DMLV_ATTRIBUTE",
+      "policy_requirements": [
+        "no_network",
+        "no_execute_unknown_code",
+        "stable_ids",
+        "preserve_provenance"
+      ],
+      "surface": "attribute"
+    },
+    {
+      "effects": "domain-specific; see examples",
+      "id": "deepml.vfx.operator.attribute_packing",
+      "normalized": "declare_or_compose_attribute_packing",
+      "omega": "OMEGA_DMLV_ATTRIBUTE_PACKING",
+      "policy_requirements": [
+        "no_network",
+        "no_execute_unknown_code",
+        "stable_ids",
+        "preserve_provenance"
+      ],
+      "surface": "attribute_packing"
+    },
+    {
+      "effects": "domain-specific; see examples",
+      "id": "deepml.vfx.operator.cache_scheduling",
+      "normalized": "declare_or_compose_cache_scheduling",
+      "omega": "OMEGA_DMLV_CACHE_SCHEDULING",
+      "policy_requirements": [
+        "no_network",
+        "no_execute_unknown_code",
+        "stable_ids",
+        "preserve_provenance"
+      ],
+      "surface": "cache_scheduling"
+    },
+    {
+      "effects": "domain-specific; see examples",
+      "id": "deepml.vfx.operator.cinematic_effects",
+      "normalized": "declare_or_compose_cinematic_effects",
+      "omega": "OMEGA_DMLV_CINEMATIC_EFFECTS",
+      "policy_requirements": [
+        "no_network",
+        "no_execute_unknown_code",
+        "stable_ids",
+        "preserve_provenance"
+      ],
+      "surface": "cinematic_effects"
+    },
+    {
+      "effects": "domain-specific; see examples",
+      "id": "deepml.vfx.operator.cloth",
+      "normalized": "declare_or_compose_cloth",
+      "omega": "OMEGA_DMLV_CLOTH",
+      "policy_requirements": [
+        "no_network",
+        "no_execute_unknown_code",
+        "stable_ids",
+        "preserve_provenance"
+      ],
+      "surface": "cloth"
+    },
+    {
+      "effects": "domain-specific; see examples",
+      "id": "deepml.vfx.operator.collision_field",
+      "normalized": "declare_or_compose_collision_field",
+      "omega": "OMEGA_DMLV_COLLISION_FIELD",
+      "policy_requirements": [
+        "no_network",
+        "no_execute_unknown_code",
+        "stable_ids",
+        "preserve_provenance"
+      ],
+      "surface": "collision_field"
+    },
+    {
+      "effects": "domain-specific; see examples",
+      "id": "deepml.vfx.operator.compositing_node",
+      "normalized": "declare_or_compose_compositing_node",
+      "omega": "OMEGA_DMLV_COMPOSITING_NODE",
+      "policy_requirements": [
+        "no_network",
+        "no_execute_unknown_code",
+        "stable_ids",
+        "preserve_provenance"
+      ],
+      "surface": "compositing_node"
+    },
+    {
+      "effects": "domain-specific; see examples",
+      "id": "deepml.vfx.operator.coupled_simulation",
+      "normalized": "declare_or_compose_coupled_simulation",
+      "omega": "OMEGA_DMLV_COUPLED_SIMULATION",
+      "policy_requirements": [
+        "no_network",
+        "no_execute_unknown_code",
+        "stable_ids",
+        "preserve_provenance"
+      ],
+      "surface": "coupled_simulation"
+    },
+    {
+      "effects": "domain-specific; see examples",
+      "id": "deepml.vfx.operator.cyclic_render_graph",
+      "normalized": "declare_or_compose_cyclic_render_graph",
+      "omega": "OMEGA_DMLV_CYCLIC_RENDER_GRAPH",
+      "policy_requirements": [
+        "no_network",
+        "no_execute_unknown_code",
+        "stable_ids",
+        "preserve_provenance"
+      ],
+      "surface": "cyclic_render_graph"
+    },
+    {
+      "effects": "domain-specific; see examples",
+      "id": "deepml.vfx.operator.dead_pass_removal",
+      "normalized": "declare_or_compose_dead_pass_removal",
+      "omega": "OMEGA_DMLV_DEAD_PASS_REMOVAL",
+      "policy_requirements": [
+        "no_network",
+        "no_execute_unknown_code",
+        "stable_ids",
+        "preserve_provenance"
+      ],
+      "surface": "dead_pass_removal"
+    },
+    {
+      "effects": "domain-specific; see examples",
+      "id": "deepml.vfx.operator.destruction",
+      "normalized": "declare_or_compose_destruction",
+      "omega": "OMEGA_DMLV_DESTRUCTION",
+      "policy_requirements": [
+        "no_network",
+        "no_execute_unknown_code",
+        "stable_ids",
+        "preserve_provenance"
+      ],
+      "surface": "destruction"
+    },
+    {
+      "effects": "domain-specific; see examples",
+      "id": "deepml.vfx.operator.destruction_sequence",
+      "normalized": "declare_or_compose_destruction_sequence",
+      "omega": "OMEGA_DMLV_DESTRUCTION_SEQUENCE",
+      "policy_requirements": [
+        "no_network",
+        "no_execute_unknown_code",
+        "stable_ids",
+        "preserve_provenance"
+      ],
+      "surface": "destruction_sequence"
+    },
+    {
+      "effects": "domain-specific; see examples",
+      "id": "deepml.vfx.operator.differentiable_vfx",
+      "normalized": "declare_or_compose_differentiable_vfx",
+      "omega": "OMEGA_DMLV_DIFFERENTIABLE_VFX",
+      "policy_requirements": [
+        "no_network",
+        "no_execute_unknown_code",
+        "stable_ids",
+        "preserve_provenance"
+      ],
+      "surface": "differentiable_vfx"
+    },
+    {
+      "effects": "domain-specific; see examples",
+      "id": "deepml.vfx.operator.domain_tiling",
+      "normalized": "declare_or_compose_domain_tiling",
+      "omega": "OMEGA_DMLV_DOMAIN_TILING",
+      "policy_requirements": [
+        "no_network",
+        "no_execute_unknown_code",
+        "stable_ids",
+        "preserve_provenance"
+      ],
+      "surface": "domain_tiling"
+    },
+    {
+      "effects": "domain-specific; see examples",
+      "id": "deepml.vfx.operator.emitter",
+      "normalized": "declare_or_compose_emitter",
+      "omega": "OMEGA_DMLV_EMITTER",
+      "policy_requirements": [
+        "no_network",
+        "no_execute_unknown_code",
+        "stable_ids",
+        "preserve_provenance"
+      ],
+      "surface": "emitter"
+    },
+    {
+      "effects": "domain-specific; see examples",
+      "id": "deepml.vfx.operator.fluid",
+      "normalized": "declare_or_compose_fluid",
+      "omega": "OMEGA_DMLV_FLUID",
+      "policy_requirements": [
+        "no_network",
+        "no_execute_unknown_code",
+        "stable_ids",
+        "preserve_provenance"
+      ],
+      "surface": "fluid"
+    },
+    {
+      "effects": "domain-specific; see examples",
+      "id": "deepml.vfx.operator.fluid_cloth_interaction",
+      "normalized": "declare_or_compose_fluid_cloth_interaction",
+      "omega": "OMEGA_DMLV_FLUID_CLOTH_INTERACTION",
+      "policy_requirements": [
+        "no_network",
+        "no_execute_unknown_code",
+        "stable_ids",
+        "preserve_provenance"
+      ],
+      "surface": "fluid_cloth_interaction"
+    },
+    {
+      "effects": "domain-specific; see examples",
+      "id": "deepml.vfx.operator.force",
+      "normalized": "declare_or_compose_force",
+      "omega": "OMEGA_DMLV_FORCE",
+      "policy_requirements": [
+        "no_network",
+        "no_execute_unknown_code",
+        "stable_ids",
+        "preserve_provenance"
+      ],
+      "surface": "force"
+    },
+    {
+      "effects": "domain-specific; see examples",
+      "id": "deepml.vfx.operator.invalid_shader_type",
+      "normalized": "certify_invalid_shader_type",
+      "omega": "OMEGA_DMLV_INVALID_SHADER_TYPE",
+      "policy_requirements": [
+        "no_network",
+        "no_execute_unknown_code",
+        "stable_ids",
+        "preserve_provenance"
+      ],
+      "surface": "invalid_shader_type"
+    },
+    {
+      "effects": "domain-specific; see examples",
+      "id": "deepml.vfx.operator.light",
+      "normalized": "declare_or_compose_light",
+      "omega": "OMEGA_DMLV_LIGHT",
+      "policy_requirements": [
+        "no_network",
+        "no_execute_unknown_code",
+        "stable_ids",
+        "preserve_provenance"
+      ],
+      "surface": "light"
+    },
+    {
+      "effects": "domain-specific; see examples",
+      "id": "deepml.vfx.operator.lighting_compositing_pipeline",
+      "normalized": "declare_or_compose_lighting_compositing_pipeline",
+      "omega": "OMEGA_DMLV_LIGHTING_COMPOSITING_PIPELINE",
+      "policy_requirements": [
+        "no_network",
+        "no_execute_unknown_code",
+        "stable_ids",
+        "preserve_provenance"
+      ],
+      "surface": "lighting_compositing_pipeline"
+    },
+    {
+      "effects": "domain-specific; see examples",
+      "id": "deepml.vfx.operator.lighting_graph",
+      "normalized": "declare_or_compose_lighting_graph",
+      "omega": "OMEGA_DMLV_LIGHTING_GRAPH",
+      "policy_requirements": [
+        "no_network",
+        "no_execute_unknown_code",
+        "stable_ids",
+        "preserve_provenance"
+      ],
+      "surface": "lighting_graph"
+    },
+    {
+      "effects": "domain-specific; see examples",
+      "id": "deepml.vfx.operator.mask",
+      "normalized": "declare_or_compose_mask",
+      "omega": "OMEGA_DMLV_MASK",
+      "policy_requirements": [
+        "no_network",
+        "no_execute_unknown_code",
+        "stable_ids",
+        "preserve_provenance"
+      ],
+      "surface": "mask"
+    },
+    {
+      "effects": "domain-specific; see examples",
+      "id": "deepml.vfx.operator.material",
+      "normalized": "declare_or_compose_material",
+      "omega": "OMEGA_DMLV_MATERIAL",
+      "policy_requirements": [
+        "no_network",
+        "no_execute_unknown_code",
+        "stable_ids",
+        "preserve_provenance"
+      ],
+      "surface": "material"
+    },
+    {
+      "effects": "domain-specific; see examples",
+      "id": "deepml.vfx.operator.missing_cache",
+      "normalized": "certify_missing_cache",
+      "omega": "OMEGA_DMLV_MISSING_CACHE",
+      "policy_requirements": [
+        "no_network",
+        "no_execute_unknown_code",
+        "stable_ids",
+        "preserve_provenance"
+      ],
+      "surface": "missing_cache"
+    },
+    {
+      "effects": "domain-specific; see examples",
+      "id": "deepml.vfx.operator.multipass_compositing",
+      "normalized": "declare_or_compose_multipass_compositing",
+      "omega": "OMEGA_DMLV_MULTIPASS_COMPOSITING",
+      "policy_requirements": [
+        "no_network",
+        "no_execute_unknown_code",
+        "stable_ids",
+        "preserve_provenance"
+      ],
+      "surface": "multipass_compositing"
+    },
+    {
+      "effects": "domain-specific; see examples",
+      "id": "deepml.vfx.operator.negative_lifetime",
+      "normalized": "declare_or_compose_negative_lifetime",
+      "omega": "OMEGA_DMLV_NEGATIVE_LIFETIME",
+      "policy_requirements": [
+        "no_network",
+        "no_execute_unknown_code",
+        "stable_ids",
+        "preserve_provenance"
+      ],
+      "surface": "negative_lifetime"
+    },
+    {
+      "effects": "domain-specific; see examples",
+      "id": "deepml.vfx.operator.node_fusion",
+      "normalized": "declare_or_compose_node_fusion",
+      "omega": "OMEGA_DMLV_NODE_FUSION",
+      "policy_requirements": [
+        "no_network",
+        "no_execute_unknown_code",
+        "stable_ids",
+        "preserve_provenance"
+      ],
+      "surface": "node_fusion"
+    },
+    {
+      "effects": "domain-specific; see examples",
+      "id": "deepml.vfx.operator.nondeterministic_sampling",
+      "normalized": "declare_or_compose_nondeterministic_sampling",
+      "omega": "OMEGA_DMLV_NONDETERMINISTIC_SAMPLING",
+      "policy_requirements": [
+        "no_network",
+        "no_execute_unknown_code",
+        "stable_ids",
+        "preserve_provenance"
+      ],
+      "surface": "nondeterministic_sampling"
+    },
+    {
+      "effects": "domain-specific; see examples",
+      "id": "deepml.vfx.operator.particle_system",
+      "normalized": "declare_or_compose_particle_system",
+      "omega": "OMEGA_DMLV_PARTICLE_SYSTEM",
+      "policy_requirements": [
+        "no_network",
+        "no_execute_unknown_code",
+        "stable_ids",
+        "preserve_provenance"
+      ],
+      "surface": "particle_system"
+    },
+    {
+      "effects": "domain-specific; see examples",
+      "id": "deepml.vfx.operator.portal_effect",
+      "normalized": "declare_or_compose_portal_effect",
+      "omega": "OMEGA_DMLV_PORTAL_EFFECT",
+      "policy_requirements": [
+        "no_network",
+        "no_execute_unknown_code",
+        "stable_ids",
+        "preserve_provenance"
+      ],
+      "surface": "portal_effect"
+    },
+    {
+      "effects": "domain-specific; see examples",
+      "id": "deepml.vfx.operator.procedural_effect",
+      "normalized": "declare_or_compose_procedural_effect",
+      "omega": "OMEGA_DMLV_PROCEDURAL_EFFECT",
+      "policy_requirements": [
+        "no_network",
+        "no_execute_unknown_code",
+        "stable_ids",
+        "preserve_provenance"
+      ],
+      "surface": "procedural_effect"
+    },
+    {
+      "effects": "domain-specific; see examples",
+      "id": "deepml.vfx.operator.r12_mcrt_lowering",
+      "normalized": "declare_or_compose_r12_mcrt_lowering",
+      "omega": "OMEGA_DMLV_R12_MCRT_LOWERING",
+      "policy_requirements": [
+        "no_network",
+        "no_execute_unknown_code",
+        "stable_ids",
+        "preserve_provenance"
+      ],
+      "surface": "r12_mcrt_lowering"
+    },
+    {
+      "effects": "domain-specific; see examples",
+      "id": "deepml.vfx.operator.render_graph_ordering",
+      "normalized": "declare_or_compose_render_graph_ordering",
+      "omega": "OMEGA_DMLV_RENDER_GRAPH_ORDERING",
+      "policy_requirements": [
+        "no_network",
+        "no_execute_unknown_code",
+        "stable_ids",
+        "preserve_provenance"
+      ],
+      "surface": "render_graph_ordering"
+    },
+    {
+      "effects": "domain-specific; see examples",
+      "id": "deepml.vfx.operator.render_pass",
+      "normalized": "declare_or_compose_render_pass",
+      "omega": "OMEGA_DMLV_RENDER_PASS",
+      "policy_requirements": [
+        "no_network",
+        "no_execute_unknown_code",
+        "stable_ids",
+        "preserve_provenance"
+      ],
+      "surface": "render_pass"
+    },
+    {
+      "effects": "domain-specific; see examples",
+      "id": "deepml.vfx.operator.render_target",
+      "normalized": "declare_or_compose_render_target",
+      "omega": "OMEGA_DMLV_RENDER_TARGET",
+      "policy_requirements": [
+        "no_network",
+        "no_execute_unknown_code",
+        "stable_ids",
+        "preserve_provenance"
+      ],
+      "surface": "render_target"
+    },
+    {
+      "effects": "domain-specific; see examples",
+      "id": "deepml.vfx.operator.resource_hazard",
+      "normalized": "declare_or_compose_resource_hazard",
+      "omega": "OMEGA_DMLV_RESOURCE_HAZARD",
+      "policy_requirements": [
+        "no_network",
+        "no_execute_unknown_code",
+        "stable_ids",
+        "preserve_provenance"
+      ],
+      "surface": "resource_hazard"
+    },
+    {
+      "effects": "domain-specific; see examples",
+      "id": "deepml.vfx.operator.scene_timeline_binding",
+      "normalized": "declare_or_compose_scene_timeline_binding",
+      "omega": "OMEGA_DMLV_SCENE_TIMELINE_BINDING",
+      "policy_requirements": [
+        "no_network",
+        "no_execute_unknown_code",
+        "stable_ids",
+        "preserve_provenance"
+      ],
+      "surface": "scene_timeline_binding"
+    },
+    {
+      "effects": "domain-specific; see examples",
+      "id": "deepml.vfx.operator.shader_function",
+      "normalized": "declare_or_compose_shader_function",
+      "omega": "OMEGA_DMLV_SHADER_FUNCTION",
+      "policy_requirements": [
+        "no_network",
+        "no_execute_unknown_code",
+        "stable_ids",
+        "preserve_provenance"
+      ],
+      "surface": "shader_function"
+    },
+    {
+      "effects": "domain-specific; see examples",
+      "id": "deepml.vfx.operator.shader_node",
+      "normalized": "declare_or_compose_shader_node",
+      "omega": "OMEGA_DMLV_SHADER_NODE",
+      "policy_requirements": [
+        "no_network",
+        "no_execute_unknown_code",
+        "stable_ids",
+        "preserve_provenance"
+      ],
+      "surface": "shader_node"
+    },
+    {
+      "effects": "domain-specific; see examples",
+      "id": "deepml.vfx.operator.shader_specialization",
+      "normalized": "declare_or_compose_shader_specialization",
+      "omega": "OMEGA_DMLV_SHADER_SPECIALIZATION",
+      "policy_requirements": [
+        "no_network",
+        "no_execute_unknown_code",
+        "stable_ids",
+        "preserve_provenance"
+      ],
+      "surface": "shader_specialization"
+    },
+    {
+      "effects": "domain-specific; see examples",
+      "id": "deepml.vfx.operator.temporal_cache",
+      "normalized": "declare_or_compose_temporal_cache",
+      "omega": "OMEGA_DMLV_TEMPORAL_CACHE",
+      "policy_requirements": [
+        "no_network",
+        "no_execute_unknown_code",
+        "stable_ids",
+        "preserve_provenance"
+      ],
+      "surface": "temporal_cache"
+    },
+    {
+      "effects": "domain-specific; see examples",
+      "id": "deepml.vfx.operator.tolerance_violation",
+      "normalized": "declare_or_compose_tolerance_violation",
+      "omega": "OMEGA_DMLV_TOLERANCE_VIOLATION",
+      "policy_requirements": [
+        "no_network",
+        "no_execute_unknown_code",
+        "stable_ids",
+        "preserve_provenance"
+      ],
+      "surface": "tolerance_violation"
+    },
+    {
+      "effects": "domain-specific; see examples",
+      "id": "deepml.vfx.operator.unstable_simulation",
+      "normalized": "declare_or_compose_unstable_simulation",
+      "omega": "OMEGA_DMLV_UNSTABLE_SIMULATION",
+      "policy_requirements": [
+        "no_network",
+        "no_execute_unknown_code",
+        "stable_ids",
+        "preserve_provenance"
+      ],
+      "surface": "unstable_simulation"
+    },
+    {
+      "effects": "domain-specific; see examples",
+      "id": "deepml.vfx.operator.volumetric",
+      "normalized": "declare_or_compose_volumetric",
+      "omega": "OMEGA_DMLV_VOLUMETRIC",
+      "policy_requirements": [
+        "no_network",
+        "no_execute_unknown_code",
+        "stable_ids",
+        "preserve_provenance"
+      ],
+      "surface": "volumetric"
+    },
+    {
+      "effects": "domain-specific; see examples",
+      "id": "deepml.vfx.operator.weather_system",
+      "normalized": "declare_or_compose_weather_system",
+      "omega": "OMEGA_DMLV_WEATHER_SYSTEM",
+      "policy_requirements": [
+        "no_network",
+        "no_execute_unknown_code",
+        "stable_ids",
+        "preserve_provenance"
+      ],
+      "surface": "weather_system"
+    }
+  ],
+  "_coupling_mechanics": {
+    "framework": "Smithson 8S Coupled Mechanics v1.0",
+    "status": "Proposed generative and computational law; not an established physical law, not the standard sphere S^8 without separate topological proof, and not evidence of physical quantum entanglement.",
+    "author": "Russell Philip Smithson",
+    "analytical_support_layers": [
+      "SOPHIA",
+      "CHARLOTTE",
+      "LANDON"
+    ],
+    "canonical_terms": {
+      "object": "S^3 fiber",
+      "base": "five-dimensional penteract field B^5=[-1,1]^5",
+      "hidden_center": "latent five-dimensional center",
+      "fifth_coordinate": "elucidation coordinate t8 with declared independent semantic or mechanical meaning",
+      "visible_center": "projected center",
+      "pairwise_interaction": "sparse geometric-semantic classical coupling",
+      "higher_order_interaction": "selective triadic coupling",
+      "visual_overlap": "projected three-dimensional overlap",
+      "total_space": "locally eight-dimensional noncollapsed penteract-S^3 hyperfiber system"
+    },
+    "equations": {
+      "coordinate_extension": "C5=[C4|e]",
+      "independent_residual": "e_perp=(I-C4*C4^+)e",
+      "independence_score": "eta_ind=||e_perp||_2^2/(||e||_2^2+epsilon)",
+      "driver": "q(tau)=sin^2(pi*tau/T)",
+      "candidate_site": "c_n=ell*n, n in Z^5, ||n||_1<=M",
+      "shell_multiplicity": "A_5(m)=sum_{j=1}^{min(5,m)} 2^j*C(5,j)*C(m-1,j-1); A_5(0)=1",
+      "coupling_weight": "W_ij=A_ij*exp(-((c_i-c_j)^T G5 (c_i-c_j))/(2 sigma_c^2)-d_J(i,j)^2/(2 sigma_J^2))",
+      "phase_dynamics": "dtheta_i/dtau=omega_i+K2*sum_j W_ij*sin(theta_j-theta_i)+K3*sum_{j,k} H_ijk*sin(theta_j+theta_k-2theta_i)",
+      "activation_score": "h_i=beta(Mq+1/2-d_i)+a_E E_i+a_u u_i-a_chi chi_i-a_zeta zeta_i+J2*sum_j W_ij(2p_j-1)+J3*sum_{j,k} H_ijk(2p_j-1)(2p_k-1)",
+      "activation": "p_i=sigma(h_i)=1/(1+exp(-h_i))",
+      "smooth_boundary": "B_5,infinity(c_i)=prod_{a=4}^{8} b(c_{i,a})",
+      "effective_support": "s_i=p_i*kappa_i*(1-chi_i)*(1-zeta_i)*v(omega_i)",
+      "radius": "r_i=r_max*B_5,infinity(c_i)^alpha*s_i^(1/3)",
+      "fiber": "F_i=S^3_{r_i}={y in R^4: ||y||_2=r_i}",
+      "fiber_volume": "Vol(S^3_{r_i})=2*pi^2*r_max^3*B_5,infinity(c_i)^(3alpha)*s_i",
+      "total_space": "X8(tau)={(c,y) in [-1,1]^5 x R^4: ||y||_2=R(c,tau)}",
+      "full_projection": "x_i^(3)(u,tau)=[Pi5(tau)|Psi4(tau)]*[c_i;r_i*u], u in S^3",
+      "latent_5d_gap": "g5_ij=sqrt((c_i-c_j)^T G5 (c_i-c_j))-(lambda_i+lambda_j)",
+      "product_state_separation": "delta8_ij=sqrt((c_i-c_j)^T G5 (c_i-c_j)+(r_i-r_j)^2)",
+      "projected_gap": "g3_ij=||Pi5*c_i-Pi5*c_j||_2-(rhat_i+rhat_j)",
+      "semantic_gap": "gJ_ij=d_J(J_i,J_j)-theta_J",
+      "efficacy_gain": "Delta_8S=Score(M8)-Score(M7)",
+      "admission_gate": "Admit(8S) iff eta_ind>=epsilon_ind and Delta_8S>epsilon_gain"
+    },
+    "relation_test": {
+      "inputs": [
+        "g5_ij",
+        "delta8_ij",
+        "g3_ij",
+        "gJ_ij",
+        "K_ij",
+        "Sigma_ij"
+      ],
+      "classification_order": [
+        "UNRESOLVED when an uncertainty interval crosses a declared tolerance or required evidence/provenance is missing",
+        "CONTRADICTION when K_ij>=theta_K",
+        "HIGHER_ORDER when a triadic term changes the pairwise result",
+        "PROJECTION_ONLY when g5_ij>tol5 and g3_ij<=tol3",
+        "LATENT_5D_COUPLED when g5_ij<-tol5",
+        "FIBER_STATE_RESONANT when delta8_ij<=tol8 and phase coherence is within tolerance",
+        "SEMANTIC_ONLY when latent and projected gaps are positive but gJ_ij<=tolJ",
+        "REINFORCING when semantics, phase, and provenance support the same result",
+        "NONE otherwise"
+      ],
+      "scale": "L=max(ell,r_max,lambda_i,lambda_j,||c_i-c_j||_G5)",
+      "tol5": "1e-7 L unless a stricter profile is declared",
+      "tol8": "1e-7 L unless a stricter profile is declared",
+      "tol3": "1e-5 L unless a stricter rendering profile is declared",
+      "tolJ": "declared semantic-distance tolerance",
+      "observability": "A single 3x5 base projection has nullspace dimension at least two; stacked views require rank 5 for unique linear center reconstruction."
+    },
+    "r12_profile": {
+      "identity_schema": "8S law version and penteract profile",
+      "latent_geometry": "c_i, G5, shell, fifth-coordinate meaning",
+      "activation_support": "p_i, kappa_i, chi_i, zeta_i, s_i",
+      "phase_coupling": "theta_i, W_ij, H_ijk, interaction order",
+      "projection_tests": "g5, delta8, g3, gJ, projection version, tolerance profile",
+      "certification": "eta_ind, Delta_8S, relation class, limitations",
+      "fold_invariant": "document-level folding must preserve contradiction, uncertainty, provenance, projection version, and the interaction order that changed the result"
+    },
+    "execution_policy": {
+      "default": "sparse pairwise neighborhoods",
+      "escalation": "activate triadic terms only in unresolved, contradictory, high-risk, or certification-critical clusters",
+      "complexity_target": "O(Nk) pairwise sparse execution with selective higher-order escalation rather than unrestricted O(N^3) triads"
+    },
+    "validation_gate": {
+      "compare_models": "fit M7 and M8 to the same data and evaluate held-out results",
+      "required_tests": [
+        "nonredundancy",
+        "interpretability",
+        "predictive or certifying gain",
+        "cost-benefit",
+        "projection identifiability",
+        "R12 replay invariants"
+      ],
+      "replay_requirements": {
+        "independence_score_difference": "<=1e-8",
+        "center_radius_phase_difference": "<=1e-7 L with wrapped phase <=1e-6 radians",
+        "relation_class_and_tuple_hash": "identical",
+        "interaction_order": "identical"
+      }
+    },
+    "example": "When g5>tol5 and g3<=tol3, record PROJECTION_ONLY; preserve delta8, gJ, uncertainty, projection version, and interaction order independently.",
+    "annotations": [
+      "The fifth coordinate is admitted only when it contains a material residual outside span(C4), has declared meaning, and improves held-out efficacy after compute and energy costs.",
+      "A five-dimensional base plus an S^3 fiber gives local noncollapsed dimension 8, but does not by itself prove the total space is the standard sphere S^8.",
+      "Increasing latent dimension is distinct from adding higher-order coupling: H_ijk is required for genuine triadic mechanics.",
+      "Additional numerical data required: C4, proposed coordinate e, G5, W, optional H, evidence fields, phase initial conditions, projection family, apparent radii or meshes, semantic metric, tolerances, provenance, and replay identifier."
+    ]
+  }
+}

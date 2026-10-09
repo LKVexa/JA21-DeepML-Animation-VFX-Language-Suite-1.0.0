@@ -1,0 +1,64 @@
+{
+  "repository": "JA21-DeepML-Animation-VFX-Language-Suite-1.0.0",
+  "copyright": "JA21-DeepML-Animation-VFX-Language-Suite-1.0.0 (C) 2026 RUSSELL PHILIP SMITHSON",
+  "license": "GPL-3.0-only",
+  "publication_date": "2026-10-09",
+  "source_preservation": "Original source directories, compressed archives, source manifests, and prior audit source statistics remain unchanged.",
+  "manifest_policy": "Only existing current manifest/checksum records covering files changed by the licensing pass were refreshed. No source audit statistics were rewritten.",
+  "changes": [
+    {
+      "path": "COPYRIGHT",
+      "action": "added",
+      "reason": "Requested repository copyright attribution",
+      "original_sha256": null,
+      "original_bytes": null,
+      "current_sha256": "6080e0fbe78cef394e5082cbf1667c6ffb4e3719542642306d5cb4348b5ff55c",
+      "current_bytes": 118
+    },
+    {
+      "path": "LICENSE",
+      "action": "added",
+      "reason": "Requested GPL-3.0-only repository license",
+      "original_sha256": null,
+      "original_bytes": null,
+      "current_sha256": "ec21d00cebf329e85ab60c1565de7d901baa5946d235e408a4361fc1572306f6",
+      "current_bytes": 35268
+    },
+    {
+      "path": "NOTICE",
+      "action": "added",
+      "reason": "Repository license and publication provenance notice",
+      "original_sha256": null,
+      "original_bytes": null,
+      "current_sha256": "68c246eef8f0bb2cf8b699cbacc9a3fb7e460f83232cd243be68390391144546",
+      "current_bytes": 387
+    },
+    {
+      "path": "audit/updated_manifest.json",
+      "action": "modified",
+      "reason": "Refresh current manifest records for licensing edits",
+      "original_sha256": "221ad306f225841b014edc5c55c3f386689073882e3775342c369a00f63a77b7",
+      "original_bytes": 371556,
+      "current_sha256": "b5d7d91d632f9720bc7079befde7388dbfb0d9fe8a67a36d8ae7e7b319c48f49",
+      "current_bytes": 365696
+    },
+    {
+      "path": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/LICENSE.txt",
+      "action": "modified",
+      "reason": "Replace prior authored package license notice with requested GPL-3.0-only",
+      "original_sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "original_bytes": 11358,
+      "current_sha256": "ec21d00cebf329e85ab60c1565de7d901baa5946d235e408a4361fc1572306f6",
+      "current_bytes": 35268
+    }
+  ],
+  "current_manifest_updates": [
+    {
+      "path": "audit/updated_manifest.json",
+      "covered_changes": [
+        "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/LICENSE.txt"
+      ]
+    }
+  ],
+  "ledger_integrity": "The publication-wide checksum manifest should cover this ledger; this ledger does not include a self-hash."
+}

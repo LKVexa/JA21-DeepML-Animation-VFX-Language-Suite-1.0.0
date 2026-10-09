@@ -1,0 +1,14 @@
+deepml vfx 0.3
+module corpus.deepml_vfx.example_01027
+policy deterministic
+policy no_network
+effect Effect01027 {
+  fluid Smoke { grid: [99,99,35] solver: stable_fluids }
+  cloth Banner { resolution: [19,19] stiffness: 0.7 }
+  destruction Debris { pieces: 11 fracture: voronoi seed: 1027 }
+  collision_field WorldSDF source scene.Collider
+  volumetric Fog { density: 0.4 }
+  shader function ShadePortal(x: vec3) -> color
+  render_target FXColor format rgba16f
+  mask PortalMask source scene.PortalA
+}

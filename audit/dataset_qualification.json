@@ -1,0 +1,662 @@
+[
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+    "current_sha256": "77a85f606f073a62a09f117a0432af308ca20e1ba442f5d82f465ce47b056360",
+    "source_sha256": "77a85f606f073a62a09f117a0432af308ca20e1ba442f5d82f465ce47b056360",
+    "stored_jsonl_rows": 102,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/deepml_vfx_0.3/examples/DMLV_09751_10000.jsonl",
+    "current_sha256": "1a5cdcdf16350599dfde12abcb3bd86563288252e6f71ced6ee2c222b6eb09be",
+    "source_sha256": "1a5cdcdf16350599dfde12abcb3bd86563288252e6f71ced6ee2c222b6eb09be",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/deepml_vfx_0.3/examples/DMLV_05001_05250.jsonl",
+    "current_sha256": "f024e2b64c78beefed68ad3ca933a23d23d9b258b798c3febbd7a93bb2f67096",
+    "source_sha256": "f024e2b64c78beefed68ad3ca933a23d23d9b258b798c3febbd7a93bb2f67096",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/deepml_vfx_0.3/examples/DMLV_09001_09250.jsonl",
+    "current_sha256": "126aa2f63585019bf014c35ac802ec4ce3e48e7376e357dfe19228aef9ac1492",
+    "source_sha256": "126aa2f63585019bf014c35ac802ec4ce3e48e7376e357dfe19228aef9ac1492",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/deepml_vfx_0.3/examples/DMLV_04251_04500.jsonl",
+    "current_sha256": "7435ded9b4914f74126a98f3aa209a00e3b32f627945d584cec154bc2b19dd7b",
+    "source_sha256": "7435ded9b4914f74126a98f3aa209a00e3b32f627945d584cec154bc2b19dd7b",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/deepml_vfx_0.3/examples/DMLV_08751_09000.jsonl",
+    "current_sha256": "f0f73a1812caf1237f4c973b4fc6ba89cc3386f48a142c1351d01e3e9d7c5400",
+    "source_sha256": "f0f73a1812caf1237f4c973b4fc6ba89cc3386f48a142c1351d01e3e9d7c5400",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/deepml_vfx_0.3/examples/DMLV_06001_06250.jsonl",
+    "current_sha256": "e63322c4473891a5145d786fa61280e2755ee8e16ce08b22ceeee4c8cf02f542",
+    "source_sha256": "e63322c4473891a5145d786fa61280e2755ee8e16ce08b22ceeee4c8cf02f542",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/deepml_vfx_0.3/examples/DMLV_05751_06000.jsonl",
+    "current_sha256": "a7b244a84bbb0a957d72ee2b8e9c74e783ed568c84c93eac7b974f2804b42e6f",
+    "source_sha256": "a7b244a84bbb0a957d72ee2b8e9c74e783ed568c84c93eac7b974f2804b42e6f",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/deepml_vfx_0.3/examples/DMLV_01251_01500.jsonl",
+    "current_sha256": "266f1111e6c514fed49f42b30a0fac4f472db088017c32165be55febcc69637e",
+    "source_sha256": "266f1111e6c514fed49f42b30a0fac4f472db088017c32165be55febcc69637e",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/deepml_vfx_0.3/examples/DMLV_08001_08250.jsonl",
+    "current_sha256": "8f7c6fbd7d04562d7e2d2bed05306faf14e8975da21269123ee503effeb21511",
+    "source_sha256": "8f7c6fbd7d04562d7e2d2bed05306faf14e8975da21269123ee503effeb21511",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/deepml_vfx_0.3/examples/DMLV_06751_07000.jsonl",
+    "current_sha256": "c850db0e5ff17d20d2184194b4e476cd1e2ecec812933936f8fa57e3341e42c2",
+    "source_sha256": "c850db0e5ff17d20d2184194b4e476cd1e2ecec812933936f8fa57e3341e42c2",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/deepml_vfx_0.3/examples/DMLV_05251_05500.jsonl",
+    "current_sha256": "17e5cc33deffb7598db1cb86fa71971353f52a0bf3ceb1fd82754ddd25e44af6",
+    "source_sha256": "17e5cc33deffb7598db1cb86fa71971353f52a0bf3ceb1fd82754ddd25e44af6",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/deepml_vfx_0.3/examples/DMLV_06251_06500.jsonl",
+    "current_sha256": "dfad0764b750f973d631ab8b4c30614943011b7521d37af46dca17a6bdd59def",
+    "source_sha256": "dfad0764b750f973d631ab8b4c30614943011b7521d37af46dca17a6bdd59def",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/deepml_vfx_0.3/examples/DMLV_00501_00750.jsonl",
+    "current_sha256": "bfe37b5941aa38a1047290edc1ff7a632c9a4de5c2749328bb0f57a41846c523",
+    "source_sha256": "bfe37b5941aa38a1047290edc1ff7a632c9a4de5c2749328bb0f57a41846c523",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/deepml_vfx_0.3/examples/DMLV_06501_06750.jsonl",
+    "current_sha256": "70ef3b2ec146cf137625b12ac8ecd511b59f0b14d5756df8a980894c12073b7a",
+    "source_sha256": "70ef3b2ec146cf137625b12ac8ecd511b59f0b14d5756df8a980894c12073b7a",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/deepml_vfx_0.3/examples/DMLV_02751_03000.jsonl",
+    "current_sha256": "d0b831d5c3892f3cfeec5360f8b19804e5f72dfbba0becffd52ddcd7f6dc2203",
+    "source_sha256": "d0b831d5c3892f3cfeec5360f8b19804e5f72dfbba0becffd52ddcd7f6dc2203",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/deepml_vfx_0.3/examples/DMLV_08251_08500.jsonl",
+    "current_sha256": "c9574b88c2156ce879b4c2cd8e016d90cf1ec795b5f134e4fe6c161b8b345509",
+    "source_sha256": "c9574b88c2156ce879b4c2cd8e016d90cf1ec795b5f134e4fe6c161b8b345509",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/deepml_vfx_0.3/examples/DMLV_07251_07500.jsonl",
+    "current_sha256": "3a1e8a26a0d2f79fd540a32ed5e7db18f860e6f72d43f64d18ba886cddaf44a4",
+    "source_sha256": "3a1e8a26a0d2f79fd540a32ed5e7db18f860e6f72d43f64d18ba886cddaf44a4",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/deepml_vfx_0.3/examples/DMLV_04501_04750.jsonl",
+    "current_sha256": "860c96b6e4b654da53518f03d06f33a5138675464a8540873cee2a2b44ed7a60",
+    "source_sha256": "860c96b6e4b654da53518f03d06f33a5138675464a8540873cee2a2b44ed7a60",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/deepml_vfx_0.3/examples/DMLV_03001_03250.jsonl",
+    "current_sha256": "e33f6481b985bc98ff8529b6310f1a5ee592a4e9c69ab2641a94042d75980619",
+    "source_sha256": "e33f6481b985bc98ff8529b6310f1a5ee592a4e9c69ab2641a94042d75980619",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/deepml_vfx_0.3/examples/DMLV_09251_09500.jsonl",
+    "current_sha256": "425fb85f24e8ab3545593b95bb9cb7dd019f5b3b3fd0b76a81ce5e67c77524e8",
+    "source_sha256": "425fb85f24e8ab3545593b95bb9cb7dd019f5b3b3fd0b76a81ce5e67c77524e8",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/deepml_vfx_0.3/examples/DMLV_03501_03750.jsonl",
+    "current_sha256": "c018a0e2faf1cdd45365b5f22b20dd0a43ad32851b855a377d555773cc130817",
+    "source_sha256": "c018a0e2faf1cdd45365b5f22b20dd0a43ad32851b855a377d555773cc130817",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/deepml_vfx_0.3/examples/DMLV_03251_03500.jsonl",
+    "current_sha256": "e7cbfe8eb7272f650c1a8ba51c5932750122f26a50666063c875741dd3da8ac7",
+    "source_sha256": "e7cbfe8eb7272f650c1a8ba51c5932750122f26a50666063c875741dd3da8ac7",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/deepml_vfx_0.3/examples/DMLV_01001_01250.jsonl",
+    "current_sha256": "3795bc5717f7a28aa6afce9b900b4d36c16648cb669083a2015e43951f26dfc7",
+    "source_sha256": "3795bc5717f7a28aa6afce9b900b4d36c16648cb669083a2015e43951f26dfc7",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/deepml_vfx_0.3/examples/DMLV_02001_02250.jsonl",
+    "current_sha256": "416b408eb846a870bd23af5c5151e10b1ce1fe2b5fbedaa8bf525746965d11e8",
+    "source_sha256": "416b408eb846a870bd23af5c5151e10b1ce1fe2b5fbedaa8bf525746965d11e8",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/deepml_vfx_0.3/examples/DMLV_02501_02750.jsonl",
+    "current_sha256": "a80f2735e88f62a24f93d52fd053ae9868a2b067a83db9fb3f0bc2141e04b742",
+    "source_sha256": "a80f2735e88f62a24f93d52fd053ae9868a2b067a83db9fb3f0bc2141e04b742",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/deepml_vfx_0.3/examples/DMLV_05501_05750.jsonl",
+    "current_sha256": "1b4e82a13560b72b097a1b657baa90c56907dd1d284b69aa79cdb06a21b8082f",
+    "source_sha256": "1b4e82a13560b72b097a1b657baa90c56907dd1d284b69aa79cdb06a21b8082f",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/deepml_vfx_0.3/examples/DMLV_01501_01750.jsonl",
+    "current_sha256": "ecf6b6085f1a5337588044b57b4b608cdba70035c13dfbcd6c46bbadf0c198e5",
+    "source_sha256": "ecf6b6085f1a5337588044b57b4b608cdba70035c13dfbcd6c46bbadf0c198e5",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/deepml_vfx_0.3/examples/DMLV_02251_02500.jsonl",
+    "current_sha256": "e153888cb4cab96d468063ea09e6c7f338ea3601d968229e215dcf42e4eced1d",
+    "source_sha256": "e153888cb4cab96d468063ea09e6c7f338ea3601d968229e215dcf42e4eced1d",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/deepml_vfx_0.3/examples/DMLV_07001_07250.jsonl",
+    "current_sha256": "00e184c2d2f469105af32c46f1ef47b551d9fa7c1968b56d485786e79da395fe",
+    "source_sha256": "00e184c2d2f469105af32c46f1ef47b551d9fa7c1968b56d485786e79da395fe",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/deepml_vfx_0.3/examples/DMLV_01751_02000.jsonl",
+    "current_sha256": "b8c4dcd81e0e6be2663f5940e42d958ae9824407361d0d21a359e298a180a8bc",
+    "source_sha256": "b8c4dcd81e0e6be2663f5940e42d958ae9824407361d0d21a359e298a180a8bc",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/deepml_vfx_0.3/examples/DMLV_07751_08000.jsonl",
+    "current_sha256": "2bf0b0e84e298b76427575e62fba4c85c0605984a831771d07079531df7f3a75",
+    "source_sha256": "2bf0b0e84e298b76427575e62fba4c85c0605984a831771d07079531df7f3a75",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/deepml_vfx_0.3/examples/DMLV_00251_00500.jsonl",
+    "current_sha256": "b6b7e35d4521883d71f3a8dfaeb0bdeed24ac41ebd4115f105a99c6475a336d3",
+    "source_sha256": "b6b7e35d4521883d71f3a8dfaeb0bdeed24ac41ebd4115f105a99c6475a336d3",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/deepml_vfx_0.3/examples/DMLV_08501_08750.jsonl",
+    "current_sha256": "5c3aad1192c56505839c8753e745800720de85defaa6f316d3f3d2446b595f21",
+    "source_sha256": "5c3aad1192c56505839c8753e745800720de85defaa6f316d3f3d2446b595f21",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/deepml_vfx_0.3/examples/DMLV_00001_00250.jsonl",
+    "current_sha256": "e74c72ddcb67fb8c81bbfafda2068d9448c0fd2db12740b6ada0e592acee0c63",
+    "source_sha256": "e74c72ddcb67fb8c81bbfafda2068d9448c0fd2db12740b6ada0e592acee0c63",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/deepml_vfx_0.3/examples/DMLV_04751_05000.jsonl",
+    "current_sha256": "387784e479e0be8288fbe716b5408994b23de367cd1fc102ee3e48c623f637f0",
+    "source_sha256": "387784e479e0be8288fbe716b5408994b23de367cd1fc102ee3e48c623f637f0",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/deepml_vfx_0.3/examples/DMLV_03751_04000.jsonl",
+    "current_sha256": "479513fca2febce6f7af4defd0c34b355e2e43058bb799a082661a85376a33ae",
+    "source_sha256": "479513fca2febce6f7af4defd0c34b355e2e43058bb799a082661a85376a33ae",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/deepml_vfx_0.3/examples/DMLV_04001_04250.jsonl",
+    "current_sha256": "e2f1b76543d8847e4f1be4bebe82269b3449dd121746c77b8e548be5d6e958ba",
+    "source_sha256": "e2f1b76543d8847e4f1be4bebe82269b3449dd121746c77b8e548be5d6e958ba",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/deepml_vfx_0.3/examples/DMLV_00751_01000.jsonl",
+    "current_sha256": "efb6e54a3e00af9bd274f3112289555e65962a572542b3b42bdbd297bdd87019",
+    "source_sha256": "efb6e54a3e00af9bd274f3112289555e65962a572542b3b42bdbd297bdd87019",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/deepml_vfx_0.3/examples/DMLV_07501_07750.jsonl",
+    "current_sha256": "f32f6e49070243d035d678f2c0c55127e5ac849340fbe4ae14d3068c84095d41",
+    "source_sha256": "f32f6e49070243d035d678f2c0c55127e5ac849340fbe4ae14d3068c84095d41",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/deepml_vfx_0.3/examples/DMLV_09501_09750.jsonl",
+    "current_sha256": "f8b1e44f68c6757b6cb58f90d788bacc44f85ec94f8eff02cee129b0ae1a8329",
+    "source_sha256": "f8b1e44f68c6757b6cb58f90d788bacc44f85ec94f8eff02cee129b0ae1a8329",
+    "stored_jsonl_rows": 251,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/deepml_vfx_0.3/bootstrap/bootstrap_records.jsonl",
+    "current_sha256": "d33d35f3b6f34136ef72d66ab2485f1df581a6b750f01d27365ed3f239eb23db",
+    "source_sha256": "d33d35f3b6f34136ef72d66ab2485f1df581a6b750f01d27365ed3f239eb23db",
+    "stored_jsonl_rows": 47,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/deepml_vfx_0.3/validation/conformance_cases.jsonl",
+    "current_sha256": "fb26d27bb7f79b561793d83db826df6b11a42a00039b8d506daff0d11d605750",
+    "source_sha256": "fb26d27bb7f79b561793d83db826df6b11a42a00039b8d506daff0d11d605750",
+    "stored_jsonl_rows": 101,
+    "role": "historical_or_reconstructed_reference",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/corpus/technical/tech_17.jsonl.gz",
+    "current_sha256": "e9f5587f5bc9e9ad39a8d099313d7e2df4e0b57b1367a508728fba5d41356f90",
+    "source_sha256": "754ae1c287d0732957a90eb77d1ccbb23406b72aa9b9de9de73b976184a1b46f",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/corpus/technical/tech_02.jsonl.gz",
+    "current_sha256": "83f2f44a6f882ddfa62788e281e1ffb857e5790a7d183719c1ad556f9edf535a",
+    "source_sha256": "ea0f062dbf891075672784c5c1763eb1d28ff54732d12625b462ed6a337356f8",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/corpus/technical/deepml_vfx_technical_corpus_10000.jsonl.gz",
+    "current_sha256": "318d7c04b07f4fa4f06c3aa5517dd7070dd37b1b72bf65a1ad77ca770aa000d9",
+    "source_sha256": "7dd526fc5566ffa63567e84f923962da6689069ca1656d328153b73769e9e02e",
+    "stored_jsonl_rows": 10000,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/corpus/technical/tech_16.jsonl.gz",
+    "current_sha256": "87b52a544a42be58b815be2f9697ce67c32b7a98f1cd449894075267e2e500d6",
+    "source_sha256": "cf96489049a1dd65c2216ffed5137529594202388b1e1148aa21ed0baf01f5c1",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/corpus/technical/tech_08.jsonl.gz",
+    "current_sha256": "171d9c3ef0f028cecba2a6ec03338dd9a09c256259e4ab4a02942b4f36bc2c2c",
+    "source_sha256": "c760afaec5fe6f41f640dd0c5c3c0fb551bbed97eacdd2e9e01d7d657fb87160",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/corpus/technical/tech_06.jsonl.gz",
+    "current_sha256": "79b71e26f995fd7f0c0d5b98aea24b7ca13bd12a6c01a621d4a0ce7c8cf922a2",
+    "source_sha256": "c81d2cf2351e3b2ea05b9b79d0465c2ef0b9d9a203984d657446b1c2c0e772db",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/corpus/technical/tech_05.jsonl.gz",
+    "current_sha256": "5e8d9223d8b6c32f2940d0ec4860de26c7470ac1d800be17ca084515bb7db0ec",
+    "source_sha256": "3e36ce32ffd07680f293546d618faa6e16332b7cabd3137d68d9b373bfed8a14",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/corpus/technical/tech_04.jsonl.gz",
+    "current_sha256": "3c099f0b215348b050e4a421b1bc243b039170af15cc0b873f902c6735319701",
+    "source_sha256": "e02188e55c8a939d76da98aaa4086ddf8242454ba71949ffefcfe90caf88e872",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/corpus/technical/tech_14.jsonl.gz",
+    "current_sha256": "8bf3d76055081b25ed8851093d807552adc6815a98cdd8cc700768193dbbdef6",
+    "source_sha256": "3dbb35d8bfbdef3d632b98bef9f71a3af43e41fc31620d95a2d7969c8a4f1382",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/corpus/technical/tech_03.jsonl.gz",
+    "current_sha256": "963ea8fc354232f6ab9184c18ee8665caa573b9ab8ea4915ba7acca95210bf40",
+    "source_sha256": "1010fd59025a4d6202f585204e846b17327c7bb97f37e2f7a6d0bd7ce859969d",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/corpus/technical/tech_19.jsonl.gz",
+    "current_sha256": "2a2a0df60f05fd0d2f00eb34d2b2f44a736d2c4a86a153b23f241e059a80c984",
+    "source_sha256": "1d2961cf1a66495f36876f096fcb78547c51170411f690ba38a99fbab7e11998",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/corpus/technical/tech_13.jsonl.gz",
+    "current_sha256": "2cb74ffccedffc479736eab7f421b895495a2c652ee7a3cf288e15a716e90593",
+    "source_sha256": "339c287f767e9f8cb16e2f545b9ff44eb2172283205ea91935b21989612ecfd9",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/corpus/technical/tech_12.jsonl.gz",
+    "current_sha256": "bed16e7d95baa7a450bc364c818f6ce705a9c900bf90484068caec23e5553b6f",
+    "source_sha256": "429b72ea18aeea70860ca411a90820c825b3cf9637e7613b813ea016f26a4dbb",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/corpus/technical/tech_09.jsonl.gz",
+    "current_sha256": "6f1e2609386b16d73d02ffd8ac18620332192e40044db68b02223c81e7f4b935",
+    "source_sha256": "c596c2c7230e23b56225e7b1af99283ccaec030b56f16ad9a438a6c40e23257b",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/corpus/technical/tech_07.jsonl.gz",
+    "current_sha256": "7292143e7105aa13ab50011705cbe5db13b855819e6840d4142ababfcb6ead76",
+    "source_sha256": "403904c650d969c872a0c489d34e2c5a58142805eef4031ad38f1e89078701ba",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/corpus/technical/tech_20.jsonl.gz",
+    "current_sha256": "e9670671c9aba0c74fa9d5e3fbda9ec6c12e8986641a6df9afcafd17acd5f78f",
+    "source_sha256": "3f5adc8dfac8335748c840b1a9c7e4e5ab56be1e3334b8d1366542393c1338e6",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/corpus/technical/tech_01.jsonl.gz",
+    "current_sha256": "ac3bb2f708d0925e7d078b1b308207b76c881bc50dd9ba2af7c88286e8552e51",
+    "source_sha256": "e31c71f317ec73b047e6e702a1f5fa6b1d44cd831c81e5ae89739e3dc75ae0c8",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/corpus/technical/tech_10.jsonl.gz",
+    "current_sha256": "de05cc46f5eacb7cdf6a6de6d9bd9d90595f87dad7ad377f10580489054d759c",
+    "source_sha256": "c3c40a523ac6295509edc548adb415f39291cb5d543efc99827195a6df037b5b",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/corpus/technical/tech_15.jsonl.gz",
+    "current_sha256": "07eef7eff2a357a7d1d362f838c12e744e9a2ceb3fd9df434931a8232ad3b22a",
+    "source_sha256": "5fb90b9d549758b1a6402a96ec77d98c97890af8ec4587c1ab690da4a3675fc7",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/corpus/technical/tech_11.jsonl.gz",
+    "current_sha256": "a061a90609227ad2e0cf9fa83828a99990b6a3ca929aca464766f02d51f3d706",
+    "source_sha256": "1cf804d25bbf9e97736face1ca9bc9d3ebab4bf1fbcc7edab7fc8620e7749568",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/corpus/technical/tech_18.jsonl.gz",
+    "current_sha256": "244b964717d5d150beac4920aff3f43d602e0f3b56871efaf1c57028554baa9d",
+    "source_sha256": "05d5536f4def98d94b2fe239af5dd72c7ff697c004a70c7ee3334f02f50dde0e",
+    "stored_jsonl_rows": 500,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/tests/conformance_cases.jsonl",
+    "current_sha256": "fb26d27bb7f79b561793d83db826df6b11a42a00039b8d506daff0d11d605750",
+    "source_sha256": "fb26d27bb7f79b561793d83db826df6b11a42a00039b8d506daff0d11d605750",
+    "stored_jsonl_rows": 101,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  },
+  {
+    "dataset": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/script_pack_1000/catalog.jsonl",
+    "current_sha256": "22c5057a1aa80d37ee09bd5e70f48a456b884ae4c779c11c8224bafa7fd465da",
+    "source_sha256": "22c5057a1aa80d37ee09bd5e70f48a456b884ae4c779c11c8224bafa7fd465da",
+    "stored_jsonl_rows": 1000,
+    "role": "corpus_or_modeled_expectation",
+    "observed_native_result": null,
+    "native_execution_eligible": false,
+    "import_policy": "Reference syntax/contracts/data with provenance only; require a real profile compiler and independent runtime evidence for executable import."
+  }
+]

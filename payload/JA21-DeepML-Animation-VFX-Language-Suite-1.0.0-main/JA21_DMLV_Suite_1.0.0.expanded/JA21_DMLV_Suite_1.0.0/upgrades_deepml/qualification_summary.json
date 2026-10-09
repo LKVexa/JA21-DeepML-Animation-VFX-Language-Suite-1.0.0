@@ -1,0 +1,153 @@
+{
+  "profile": "deepml.vfx",
+  "suite": "JA21_DMLV_Suite_1.0.0",
+  "updated_datasets": [
+    {
+      "path": "corpus/technical/deepml_vfx_technical_corpus_10000.jsonl.gz",
+      "records": 10000,
+      "quarantined": 0,
+      "source_hash_mismatches": 0
+    },
+    {
+      "path": "corpus/technical/tech_01.jsonl.gz",
+      "records": 500,
+      "quarantined": 0,
+      "source_hash_mismatches": 0
+    },
+    {
+      "path": "corpus/technical/tech_02.jsonl.gz",
+      "records": 500,
+      "quarantined": 0,
+      "source_hash_mismatches": 0
+    },
+    {
+      "path": "corpus/technical/tech_03.jsonl.gz",
+      "records": 500,
+      "quarantined": 0,
+      "source_hash_mismatches": 0
+    },
+    {
+      "path": "corpus/technical/tech_04.jsonl.gz",
+      "records": 500,
+      "quarantined": 0,
+      "source_hash_mismatches": 0
+    },
+    {
+      "path": "corpus/technical/tech_05.jsonl.gz",
+      "records": 500,
+      "quarantined": 0,
+      "source_hash_mismatches": 0
+    },
+    {
+      "path": "corpus/technical/tech_06.jsonl.gz",
+      "records": 500,
+      "quarantined": 0,
+      "source_hash_mismatches": 0
+    },
+    {
+      "path": "corpus/technical/tech_07.jsonl.gz",
+      "records": 500,
+      "quarantined": 0,
+      "source_hash_mismatches": 0
+    },
+    {
+      "path": "corpus/technical/tech_08.jsonl.gz",
+      "records": 500,
+      "quarantined": 0,
+      "source_hash_mismatches": 0
+    },
+    {
+      "path": "corpus/technical/tech_09.jsonl.gz",
+      "records": 500,
+      "quarantined": 0,
+      "source_hash_mismatches": 0
+    },
+    {
+      "path": "corpus/technical/tech_10.jsonl.gz",
+      "records": 500,
+      "quarantined": 0,
+      "source_hash_mismatches": 0
+    },
+    {
+      "path": "corpus/technical/tech_11.jsonl.gz",
+      "records": 500,
+      "quarantined": 0,
+      "source_hash_mismatches": 0
+    },
+    {
+      "path": "corpus/technical/tech_12.jsonl.gz",
+      "records": 500,
+      "quarantined": 0,
+      "source_hash_mismatches": 0
+    },
+    {
+      "path": "corpus/technical/tech_13.jsonl.gz",
+      "records": 500,
+      "quarantined": 0,
+      "source_hash_mismatches": 0
+    },
+    {
+      "path": "corpus/technical/tech_14.jsonl.gz",
+      "records": 500,
+      "quarantined": 0,
+      "source_hash_mismatches": 0
+    },
+    {
+      "path": "corpus/technical/tech_15.jsonl.gz",
+      "records": 500,
+      "quarantined": 0,
+      "source_hash_mismatches": 0
+    },
+    {
+      "path": "corpus/technical/tech_16.jsonl.gz",
+      "records": 500,
+      "quarantined": 0,
+      "source_hash_mismatches": 0
+    },
+    {
+      "path": "corpus/technical/tech_17.jsonl.gz",
+      "records": 500,
+      "quarantined": 0,
+      "source_hash_mismatches": 0
+    },
+    {
+      "path": "corpus/technical/tech_18.jsonl.gz",
+      "records": 500,
+      "quarantined": 0,
+      "source_hash_mismatches": 0
+    },
+    {
+      "path": "corpus/technical/tech_19.jsonl.gz",
+      "records": 500,
+      "quarantined": 0,
+      "source_hash_mismatches": 0
+    },
+    {
+      "path": "corpus/technical/tech_20.jsonl.gz",
+      "records": 500,
+      "quarantined": 0,
+      "source_hash_mismatches": 0
+    }
+  ],
+  "master_expected_outcomes": {
+    "pass": 7940,
+    "fail_as_expected": 2060
+  },
+  "master_device_mismatch_field_counts": {},
+  "sample_quarantined_records": [],
+  "source_programs_preserved": true,
+  "modeled_result_qualification": "expected labels preserved; observed_result=null; native_execution_eligible=false",
+  "scope": "Published corpus/technical gzip datasets only; historical/reconstructed documents remain unchanged.",
+  "master_qualification_by_expected_outcome": [
+    {
+      "expected": "fail_as_expected",
+      "qualification": "modeled_expectation_only",
+      "count": 2060
+    },
+    {
+      "expected": "pass",
+      "qualification": "modeled_expectation_only",
+      "count": 7940
+    }
+  ]
+}

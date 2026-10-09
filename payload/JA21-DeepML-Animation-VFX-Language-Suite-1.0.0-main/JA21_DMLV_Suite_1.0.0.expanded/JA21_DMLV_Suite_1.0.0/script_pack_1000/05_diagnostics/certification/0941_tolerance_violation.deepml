@@ -1,0 +1,6 @@
+deepml vfx 0.3
+module corpus.deepml_vfx.example_09025
+policy deterministic
+policy no_network
+effect Effect09025 { verify simulation energy_error 1.0 tolerance 0.001 }
+certify vfx Effect09025 profile strict

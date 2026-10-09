@@ -1,0 +1,13 @@
+deepml vfx 0.3
+module corpus.deepml_vfx.example_05018
+policy deterministic
+policy no_network
+vfx_package Effect05018 {
+  weather system Weather6 { wind: vec3(2,0,1) rain: 618/s }
+  destruction sequence Collapse3 bind timeline.Destruction
+  interaction fluid Smoke with cloth Banner collision two_way
+  portal effect Portal5 { particles: Sparks volumetric: Fog shader: Distortion }
+  lighting pipeline { key: Sun fill: PortalGlow exposure: auto_deterministic }
+  compositing pipeline { passes: [Scene, Weather, Portal, Grade] }
+}
+package vfx Effect05018 as "vfx_05018.msslb"

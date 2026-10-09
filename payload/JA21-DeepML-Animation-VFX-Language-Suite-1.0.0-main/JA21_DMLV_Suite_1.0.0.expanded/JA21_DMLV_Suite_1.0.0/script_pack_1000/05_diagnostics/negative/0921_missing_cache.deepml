@@ -1,0 +1,6 @@
+deepml vfx 0.3
+module corpus.deepml_vfx.example_09013
+policy deterministic
+policy no_network
+effect Effect09013 { use cache MissingCache }
+certify vfx Effect09013 profile strict

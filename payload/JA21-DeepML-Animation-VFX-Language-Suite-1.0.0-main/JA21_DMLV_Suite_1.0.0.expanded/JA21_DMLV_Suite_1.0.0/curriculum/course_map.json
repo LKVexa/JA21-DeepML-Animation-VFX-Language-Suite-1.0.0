@@ -1,0 +1,25 @@
+{
+  "course_id": "JA21-DMLV-COURSE-1.0",
+  "title": "DeepML VFX Standalone Language Suite",
+  "weeks": 12,
+  "tracks": [
+    "technical artist",
+    "animator-programmer",
+    "simulation engineer",
+    "compiler/runtime engineer"
+  ],
+  "required_artifacts": [
+    "textbook",
+    "workbook",
+    "1000-script pack",
+    "technical corpus",
+    "conformance tests"
+  ],
+  "assessment": [
+    "syntax and types",
+    "domain modeling",
+    "diagnostics",
+    "R12/MCRT evidence",
+    "capstone"
+  ]
+}

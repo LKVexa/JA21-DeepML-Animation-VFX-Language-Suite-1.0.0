@@ -1,0 +1,6 @@
+deepml vfx 0.3
+module corpus.deepml_vfx.example_09003
+policy deterministic
+policy no_network
+effect Effect09003 { shader S { output color: matrix4 } }
+certify vfx Effect09003 profile strict

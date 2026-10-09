@@ -1,0 +1,212 @@
+[
+  {
+    "path": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/corpus/technical/deepml_vfx_technical_corpus_10000.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "7dd526fc5566ffa63567e84f923962da6689069ca1656d328153b73769e9e02e",
+    "updated_sha256": "318d7c04b07f4fa4f06c3aa5517dd7070dd37b1b72bf65a1ad77ca770aa000d9"
+  },
+  {
+    "path": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/corpus/technical/tech_01.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "e31c71f317ec73b047e6e702a1f5fa6b1d44cd831c81e5ae89739e3dc75ae0c8",
+    "updated_sha256": "ac3bb2f708d0925e7d078b1b308207b76c881bc50dd9ba2af7c88286e8552e51"
+  },
+  {
+    "path": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/corpus/technical/tech_02.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "ea0f062dbf891075672784c5c1763eb1d28ff54732d12625b462ed6a337356f8",
+    "updated_sha256": "83f2f44a6f882ddfa62788e281e1ffb857e5790a7d183719c1ad556f9edf535a"
+  },
+  {
+    "path": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/corpus/technical/tech_03.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "1010fd59025a4d6202f585204e846b17327c7bb97f37e2f7a6d0bd7ce859969d",
+    "updated_sha256": "963ea8fc354232f6ab9184c18ee8665caa573b9ab8ea4915ba7acca95210bf40"
+  },
+  {
+    "path": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/corpus/technical/tech_04.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "e02188e55c8a939d76da98aaa4086ddf8242454ba71949ffefcfe90caf88e872",
+    "updated_sha256": "3c099f0b215348b050e4a421b1bc243b039170af15cc0b873f902c6735319701"
+  },
+  {
+    "path": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/corpus/technical/tech_05.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "3e36ce32ffd07680f293546d618faa6e16332b7cabd3137d68d9b373bfed8a14",
+    "updated_sha256": "5e8d9223d8b6c32f2940d0ec4860de26c7470ac1d800be17ca084515bb7db0ec"
+  },
+  {
+    "path": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/corpus/technical/tech_06.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "c81d2cf2351e3b2ea05b9b79d0465c2ef0b9d9a203984d657446b1c2c0e772db",
+    "updated_sha256": "79b71e26f995fd7f0c0d5b98aea24b7ca13bd12a6c01a621d4a0ce7c8cf922a2"
+  },
+  {
+    "path": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/corpus/technical/tech_07.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "403904c650d969c872a0c489d34e2c5a58142805eef4031ad38f1e89078701ba",
+    "updated_sha256": "7292143e7105aa13ab50011705cbe5db13b855819e6840d4142ababfcb6ead76"
+  },
+  {
+    "path": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/corpus/technical/tech_08.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "c760afaec5fe6f41f640dd0c5c3c0fb551bbed97eacdd2e9e01d7d657fb87160",
+    "updated_sha256": "171d9c3ef0f028cecba2a6ec03338dd9a09c256259e4ab4a02942b4f36bc2c2c"
+  },
+  {
+    "path": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/corpus/technical/tech_09.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "c596c2c7230e23b56225e7b1af99283ccaec030b56f16ad9a438a6c40e23257b",
+    "updated_sha256": "6f1e2609386b16d73d02ffd8ac18620332192e40044db68b02223c81e7f4b935"
+  },
+  {
+    "path": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/corpus/technical/tech_10.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "c3c40a523ac6295509edc548adb415f39291cb5d543efc99827195a6df037b5b",
+    "updated_sha256": "de05cc46f5eacb7cdf6a6de6d9bd9d90595f87dad7ad377f10580489054d759c"
+  },
+  {
+    "path": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/corpus/technical/tech_11.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "1cf804d25bbf9e97736face1ca9bc9d3ebab4bf1fbcc7edab7fc8620e7749568",
+    "updated_sha256": "a061a90609227ad2e0cf9fa83828a99990b6a3ca929aca464766f02d51f3d706"
+  },
+  {
+    "path": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/corpus/technical/tech_12.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "429b72ea18aeea70860ca411a90820c825b3cf9637e7613b813ea016f26a4dbb",
+    "updated_sha256": "bed16e7d95baa7a450bc364c818f6ce705a9c900bf90484068caec23e5553b6f"
+  },
+  {
+    "path": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/corpus/technical/tech_13.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "339c287f767e9f8cb16e2f545b9ff44eb2172283205ea91935b21989612ecfd9",
+    "updated_sha256": "2cb74ffccedffc479736eab7f421b895495a2c652ee7a3cf288e15a716e90593"
+  },
+  {
+    "path": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/corpus/technical/tech_14.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "3dbb35d8bfbdef3d632b98bef9f71a3af43e41fc31620d95a2d7969c8a4f1382",
+    "updated_sha256": "8bf3d76055081b25ed8851093d807552adc6815a98cdd8cc700768193dbbdef6"
+  },
+  {
+    "path": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/corpus/technical/tech_15.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "5fb90b9d549758b1a6402a96ec77d98c97890af8ec4587c1ab690da4a3675fc7",
+    "updated_sha256": "07eef7eff2a357a7d1d362f838c12e744e9a2ceb3fd9df434931a8232ad3b22a"
+  },
+  {
+    "path": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/corpus/technical/tech_16.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "cf96489049a1dd65c2216ffed5137529594202388b1e1148aa21ed0baf01f5c1",
+    "updated_sha256": "87b52a544a42be58b815be2f9697ce67c32b7a98f1cd449894075267e2e500d6"
+  },
+  {
+    "path": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/corpus/technical/tech_17.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "754ae1c287d0732957a90eb77d1ccbb23406b72aa9b9de9de73b976184a1b46f",
+    "updated_sha256": "e9f5587f5bc9e9ad39a8d099313d7e2df4e0b57b1367a508728fba5d41356f90"
+  },
+  {
+    "path": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/corpus/technical/tech_18.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "05d5536f4def98d94b2fe239af5dd72c7ff697c004a70c7ee3334f02f50dde0e",
+    "updated_sha256": "244b964717d5d150beac4920aff3f43d602e0f3b56871efaf1c57028554baa9d"
+  },
+  {
+    "path": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/corpus/technical/tech_19.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "1d2961cf1a66495f36876f096fcb78547c51170411f690ba38a99fbab7e11998",
+    "updated_sha256": "2a2a0df60f05fd0d2f00eb34d2b2f44a736d2c4a86a153b23f241e059a80c984"
+  },
+  {
+    "path": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/corpus/technical/tech_20.jsonl.gz",
+    "status": "changed",
+    "source_sha256": "3f5adc8dfac8335748c840b1a9c7e4e5ab56be1e3334b8d1366542393c1338e6",
+    "updated_sha256": "e9670671c9aba0c74fa9d5e3fbda9ec6c12e8986641a6df9afcafd17acd5f78f"
+  },
+  {
+    "path": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/corpus/technical/technical_record.schema.json",
+    "status": "changed",
+    "source_sha256": "d792777610988114506cf78b17c00e9f86c32278d4fd7f4a72647161dcc5785a",
+    "updated_sha256": "679990522c5d2b97265a2d316d35bc7c6386d6ea2b9ce5abbe6e7b3c3fd44c27"
+  },
+  {
+    "path": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/README.md",
+    "status": "changed",
+    "source_sha256": "d64d78effed5be81a869e26cd07237075edef10c38d420a9826084824e5a1c4d",
+    "updated_sha256": "3e5a97e1753e7ba0b8535ebb7d1aff28a9698bace0860d00bcb71bfc16d02ba3"
+  },
+  {
+    "path": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/upgrades_deepml/GRAMMAR_AND_EVIDENCE_ERRATA.md",
+    "status": "added",
+    "source_sha256": null,
+    "updated_sha256": "bb57586fe07614ac9a612fae0389687167143842a30c8e1acbb0f4f12a52f29b"
+  },
+  {
+    "path": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/upgrades_deepml/grammar_gaps.json",
+    "status": "added",
+    "source_sha256": null,
+    "updated_sha256": "8ef7f2de3050be2c2112f030adc4cd075f53b62b4fc4e5d9b3d260da164e89f2"
+  },
+  {
+    "path": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/upgrades_deepml/LEXICAL_COMPLETION_DRAFT.ebnf",
+    "status": "added",
+    "source_sha256": null,
+    "updated_sha256": "5d2f9aec0ca5c706dd2447c28d8708df4a58c44a915bdc88c0753cf3c9dcc2a3"
+  },
+  {
+    "path": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/upgrades_deepml/profile.json",
+    "status": "added",
+    "source_sha256": null,
+    "updated_sha256": "ac1a26b51ffcba0072c9f8699d9fef81383286648ccaa9fb5aa393bec14f39a9"
+  },
+  {
+    "path": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/upgrades_deepml/qualification.py",
+    "status": "added",
+    "source_sha256": null,
+    "updated_sha256": "75f2338aa1abfa5575a45d0c187b57f6a8844a0591bc0bd742921c7e4b5e1ea0"
+  },
+  {
+    "path": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/upgrades_deepml/qualification_summary.json",
+    "status": "added",
+    "source_sha256": null,
+    "updated_sha256": "2944cf715e5dbe2360c93f9f3365d0a56d8dd7c0bb76dff33cc927575455c5f8"
+  },
+  {
+    "path": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/upgrades_deepml/requirements.txt",
+    "status": "added",
+    "source_sha256": null,
+    "updated_sha256": "83979de442b6f367911092c24acdc47cd538c73a550a2e723ba89c8ebe06157d"
+  },
+  {
+    "path": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/upgrades_deepml/SOURCE_RECORD_PRESERVATION.json",
+    "status": "added",
+    "source_sha256": null,
+    "updated_sha256": "e2a2648a609699881a58eea85eb1034902b2bf8117915cac91dffc01f42b2e99"
+  },
+  {
+    "path": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/upgrades_deepml/test_qualification.py",
+    "status": "added",
+    "source_sha256": null,
+    "updated_sha256": "06924ca4e5d121f56fbdd2b270b5676c61db5f3722edaec7496f6f9c15f102b9"
+  },
+  {
+    "path": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/upgrades_deepml/TEST_RESULTS.txt",
+    "status": "added",
+    "source_sha256": null,
+    "updated_sha256": "98591d3ebd9b9503a9c53a26dc0154b2f20a8a47aa98d7dccbbc7d507652f789"
+  },
+  {
+    "path": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/upgrades_deepml/UPGRADE_VALIDATION.json",
+    "status": "added",
+    "source_sha256": null,
+    "updated_sha256": "7913c96d60eeef7f1c33154f9b3de4e7800d36abd0d92d06c53deea596d6fd04"
+  },
+  {
+    "path": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/upgrades_deepml/validate_upgraded.py",
+    "status": "added",
+    "source_sha256": null,
+    "updated_sha256": "cb467f8aa211c471ab13710aae27044ee8e77273010dcfae10e55a1f21ce7973"
+  }
+]

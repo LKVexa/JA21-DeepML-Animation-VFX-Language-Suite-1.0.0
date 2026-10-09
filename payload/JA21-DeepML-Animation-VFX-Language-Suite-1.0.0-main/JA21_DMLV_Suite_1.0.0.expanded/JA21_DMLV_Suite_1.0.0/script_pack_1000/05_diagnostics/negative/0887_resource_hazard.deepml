@@ -1,0 +1,6 @@
+deepml vfx 0.3
+module corpus.deepml_vfx.example_09006
+policy deterministic
+policy no_network
+effect Effect09006 { pass A writes Color pass B reads_and_writes Color unordered }
+certify vfx Effect09006 profile strict

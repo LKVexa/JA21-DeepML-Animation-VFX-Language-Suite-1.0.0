@@ -1,0 +1,16 @@
+{
+  "profile": "deepml.vfx",
+  "proposed_contribution": "Particle, fluid, cloth, shader and render graph service contracts",
+  "reuse_boundary": "Native GPU/device backend, bounds and numerical evidence required.",
+  "source_archive_sha256": "b9d0b6bc49e4099a97899c786d38ff0060fc621a4afb18e16e58ecfe8552429e",
+  "source_evidence_paths": [
+    "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/language_reference/LANGUAGE_SUITE_SPECIFICATION.md",
+    "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/deepml_vfx_0.3/grammar/grammar_specification.md",
+    "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/deepml_vfx_0.3/grammar/grammar.ebnf",
+    "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/deepml_vfx_0.3/language_suite_specification.md",
+    "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/SUITE_CATALOG.md",
+    "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/grammar/GRAMMAR_SPECIFICATION.md"
+  ],
+  "executable_adapter_implemented": false,
+  "mathematical_foundation": "8S Penteract-S3 Master Coupled Mechanics Law for intended JA model; typed operator semantics require their owning profile."
+}

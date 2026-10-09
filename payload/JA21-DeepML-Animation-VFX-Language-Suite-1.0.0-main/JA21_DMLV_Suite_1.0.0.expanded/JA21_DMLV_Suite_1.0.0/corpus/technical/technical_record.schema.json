@@ -1,0 +1,132 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "DeepML VFX Technical Corpus Record",
+  "type": "object",
+  "required": [
+    "id",
+    "sequence",
+    "language",
+    "class",
+    "topic",
+    "source",
+    "compiler",
+    "runtime",
+    "validation",
+    "hashes",
+    "coupling8s",
+    "_deepml_audit"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^EX-DMLV-[0-9]{5}$"
+    },
+    "sequence": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 10000
+    },
+    "language": {
+      "const": "deepml.vfx"
+    },
+    "class": {
+      "enum": [
+        "positive",
+        "negative",
+        "certification"
+      ]
+    },
+    "topic": {
+      "type": "string"
+    },
+    "source": {
+      "type": "string"
+    },
+    "compiler": {
+      "type": "object"
+    },
+    "runtime": {
+      "type": [
+        "object",
+        "null"
+      ]
+    },
+    "validation": {
+      "type": [
+        "object",
+        "null"
+      ]
+    },
+    "hashes": {
+      "type": "object"
+    },
+    "coupling8s": {
+      "type": "object"
+    },
+    "_deepml_audit": {
+      "type": "object",
+      "required": [
+        "schema_version",
+        "profile",
+        "execution_state",
+        "expected_outcome",
+        "observed_result",
+        "native_execution_eligible",
+        "source_sha256",
+        "source_hash_verified",
+        "qualification",
+        "warnings",
+        "authority"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "schema_version": {
+          "const": "deepml-audit-0.1"
+        },
+        "profile": {
+          "const": "deepml.vfx"
+        },
+        "execution_state": {
+          "const": "modeled_not_executed"
+        },
+        "expected_outcome": {
+          "type": "string"
+        },
+        "observed_result": {
+          "type": "null"
+        },
+        "native_execution_eligible": {
+          "const": false
+        },
+        "source_sha256": {
+          "type": "string",
+          "pattern": "^[0-9a-f]{64}$"
+        },
+        "source_hash_verified": {
+          "type": "boolean"
+        },
+        "qualification": {
+          "enum": [
+            "modeled_expectation_only",
+            "quarantined_metadata_conflict"
+          ]
+        },
+        "warnings": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "code",
+              "path"
+            ]
+          }
+        },
+        "authority": {
+          "type": "string",
+          "minLength": 1
+        }
+      }
+    }
+  },
+  "$comment": " Updated publication records require modeled-evidence qualification. No native conformance is asserted."
+}

@@ -1,0 +1,24 @@
+{
+  "grammar": "grammar/deepml_vfx.ebnf",
+  "status": "incomplete_specification",
+  "undefined_references": [
+    "attributeDecl",
+    "bindingDecl",
+    "boolean",
+    "cacheDecl",
+    "digit",
+    "edgeDecl",
+    "emitterDecl",
+    "forceDecl",
+    "letter",
+    "materialDecl",
+    "number",
+    "passDecl",
+    "shaderDecl",
+    "simulationDecl",
+    "statement",
+    "string"
+  ],
+  "editorial_extension_reachable_from_program": false,
+  "authority": "Static production-reference inspection only; no syntax or semantic conformance claim."
+}

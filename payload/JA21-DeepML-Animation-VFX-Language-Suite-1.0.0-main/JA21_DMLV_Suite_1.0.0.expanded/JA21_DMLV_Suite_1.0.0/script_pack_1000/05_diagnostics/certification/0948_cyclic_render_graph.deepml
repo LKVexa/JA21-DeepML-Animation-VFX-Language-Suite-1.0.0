@@ -1,0 +1,6 @@
+deepml vfx 0.3
+module corpus.deepml_vfx.example_09290
+policy deterministic
+policy no_network
+effect Effect09290 { render_graph G { A -> B B -> A } }
+certify vfx Effect09290 profile strict

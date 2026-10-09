@@ -1,0 +1,13 @@
+deepml vfx 0.3
+module corpus.deepml_vfx.example_02628
+policy deterministic
+policy no_network
+effect Effect02628 {
+  coupled simulation PortalSim seed 2628 { fluid: Energy cloth: Veil particles: Sparks }
+  procedural operator Distort(time, portal_state) differentiable
+  cache PortalCache10 interval 0s..10s step 1/60s hash sha256("cache:02628")
+  bind scene PortalScene10
+  bind timeline PortalSequence2
+  render_graph { Sim -> Lighting -> Distortion -> Composite }
+  composite multipass [SceneColor, PortalGlow, Distortion, Atmosphere]
+}

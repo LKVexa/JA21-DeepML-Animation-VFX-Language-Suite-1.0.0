@@ -1,0 +1,6 @@
+{
+  "profile": "deepml.vfx",
+  "source_version": "0.3",
+  "schema_path": "corpus/technical/technical_record.schema.json",
+  "master": "deepml_vfx_technical_corpus_10000.jsonl.gz"
+}

@@ -1,0 +1,966 @@
+{
+  "coverage": [
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 1,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/bootstrap/bootstrap_records.jsonl",
+      "content_bytes": 75080,
+      "content_sha256": "d33d35f3b6f34136ef72d66ab2485f1df581a6b750f01d27365ed3f239eb23db",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 47,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 2,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/bootstrap/bootstrap_records.md",
+      "content_bytes": 66970,
+      "content_sha256": "4134530c0fc569e1014977c518964102982aaf66c026deb4ef40462894b8eefc",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 3,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/compiler/contract.json",
+      "content_bytes": 6979,
+      "content_sha256": "8840274492ecbdbec5a4e357f36f3d6db3bd22ee13641f11e99f5d286a5c4beb",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 4,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/coverage.json",
+      "content_bytes": 8439,
+      "content_sha256": "8c3ee70985ebcd10cac6d4833a3ee906c053ec2994f771500c6aa067419eb1f3",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 5,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/examples/DMLV_00001_00250.jsonl",
+      "content_bytes": 1426521,
+      "content_sha256": "e74c72ddcb67fb8c81bbfafda2068d9448c0fd2db12740b6ada0e592acee0c63",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 6,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/examples/DMLV_00251_00500.jsonl",
+      "content_bytes": 1426821,
+      "content_sha256": "b6b7e35d4521883d71f3a8dfaeb0bdeed24ac41ebd4115f105a99c6475a336d3",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 7,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/examples/DMLV_00501_00750.jsonl",
+      "content_bytes": 1426456,
+      "content_sha256": "bfe37b5941aa38a1047290edc1ff7a632c9a4de5c2749328bb0f57a41846c523",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 8,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/examples/DMLV_00751_01000.jsonl",
+      "content_bytes": 1426707,
+      "content_sha256": "efb6e54a3e00af9bd274f3112289555e65962a572542b3b42bdbd297bdd87019",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 9,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/examples/DMLV_01001_01250.jsonl",
+      "content_bytes": 1428475,
+      "content_sha256": "3795bc5717f7a28aa6afce9b900b4d36c16648cb669083a2015e43951f26dfc7",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 10,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/examples/DMLV_01251_01500.jsonl",
+      "content_bytes": 1428464,
+      "content_sha256": "266f1111e6c514fed49f42b30a0fac4f472db088017c32165be55febcc69637e",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 11,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/examples/DMLV_01501_01750.jsonl",
+      "content_bytes": 1427967,
+      "content_sha256": "ecf6b6085f1a5337588044b57b4b608cdba70035c13dfbcd6c46bbadf0c198e5",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 12,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/examples/DMLV_01751_02000.jsonl",
+      "content_bytes": 1427869,
+      "content_sha256": "b8c4dcd81e0e6be2663f5940e42d958ae9824407361d0d21a359e298a180a8bc",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 13,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/examples/DMLV_02001_02250.jsonl",
+      "content_bytes": 1428467,
+      "content_sha256": "416b408eb846a870bd23af5c5151e10b1ce1fe2b5fbedaa8bf525746965d11e8",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 14,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/examples/DMLV_02251_02500.jsonl",
+      "content_bytes": 1428253,
+      "content_sha256": "e153888cb4cab96d468063ea09e6c7f338ea3601d968229e215dcf42e4eced1d",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 15,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/examples/DMLV_02501_02750.jsonl",
+      "content_bytes": 1473090,
+      "content_sha256": "a80f2735e88f62a24f93d52fd053ae9868a2b067a83db9fb3f0bc2141e04b742",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 16,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/examples/DMLV_02751_03000.jsonl",
+      "content_bytes": 1473330,
+      "content_sha256": "d0b831d5c3892f3cfeec5360f8b19804e5f72dfbba0becffd52ddcd7f6dc2203",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 17,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/examples/DMLV_03001_03250.jsonl",
+      "content_bytes": 1473089,
+      "content_sha256": "e33f6481b985bc98ff8529b6310f1a5ee592a4e9c69ab2641a94042d75980619",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 18,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/examples/DMLV_03251_03500.jsonl",
+      "content_bytes": 1473241,
+      "content_sha256": "e7cbfe8eb7272f650c1a8ba51c5932750122f26a50666063c875741dd3da8ac7",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 19,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/examples/DMLV_03501_03750.jsonl",
+      "content_bytes": 1473158,
+      "content_sha256": "c018a0e2faf1cdd45365b5f22b20dd0a43ad32851b855a377d555773cc130817",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 20,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/examples/DMLV_03751_04000.jsonl",
+      "content_bytes": 1473214,
+      "content_sha256": "479513fca2febce6f7af4defd0c34b355e2e43058bb799a082661a85376a33ae",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 21,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/examples/DMLV_04001_04250.jsonl",
+      "content_bytes": 1473097,
+      "content_sha256": "e2f1b76543d8847e4f1be4bebe82269b3449dd121746c77b8e548be5d6e958ba",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 22,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/examples/DMLV_04251_04500.jsonl",
+      "content_bytes": 1473331,
+      "content_sha256": "7435ded9b4914f74126a98f3aa209a00e3b32f627945d584cec154bc2b19dd7b",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 23,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/examples/DMLV_04501_04750.jsonl",
+      "content_bytes": 1473083,
+      "content_sha256": "860c96b6e4b654da53518f03d06f33a5138675464a8540873cee2a2b44ed7a60",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 24,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/examples/DMLV_04751_05000.jsonl",
+      "content_bytes": 1473241,
+      "content_sha256": "387784e479e0be8288fbe716b5408994b23de367cd1fc102ee3e48c623f637f0",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 25,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/examples/DMLV_05001_05250.jsonl",
+      "content_bytes": 1488236,
+      "content_sha256": "f024e2b64c78beefed68ad3ca933a23d23d9b258b798c3febbd7a93bb2f67096",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 26,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/examples/DMLV_05251_05500.jsonl",
+      "content_bytes": 1487974,
+      "content_sha256": "17e5cc33deffb7598db1cb86fa71971353f52a0bf3ceb1fd82754ddd25e44af6",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 27,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/examples/DMLV_05501_05750.jsonl",
+      "content_bytes": 1488445,
+      "content_sha256": "1b4e82a13560b72b097a1b657baa90c56907dd1d284b69aa79cdb06a21b8082f",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 28,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/examples/DMLV_05751_06000.jsonl",
+      "content_bytes": 1487924,
+      "content_sha256": "a7b244a84bbb0a957d72ee2b8e9c74e783ed568c84c93eac7b974f2804b42e6f",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 29,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/examples/DMLV_06001_06250.jsonl",
+      "content_bytes": 1488257,
+      "content_sha256": "e63322c4473891a5145d786fa61280e2755ee8e16ce08b22ceeee4c8cf02f542",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 30,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/examples/DMLV_06251_06500.jsonl",
+      "content_bytes": 1488117,
+      "content_sha256": "dfad0764b750f973d631ab8b4c30614943011b7521d37af46dca17a6bdd59def",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 31,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/examples/DMLV_06501_06750.jsonl",
+      "content_bytes": 1488234,
+      "content_sha256": "70ef3b2ec146cf137625b12ac8ecd511b59f0b14d5756df8a980894c12073b7a",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 32,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/examples/DMLV_06751_07000.jsonl",
+      "content_bytes": 1487978,
+      "content_sha256": "c850db0e5ff17d20d2184194b4e476cd1e2ecec812933936f8fa57e3341e42c2",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 33,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/examples/DMLV_07001_07250.jsonl",
+      "content_bytes": 1488442,
+      "content_sha256": "00e184c2d2f469105af32c46f1ef47b551d9fa7c1968b56d485786e79da395fe",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 34,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/examples/DMLV_07251_07500.jsonl",
+      "content_bytes": 1487924,
+      "content_sha256": "3a1e8a26a0d2f79fd540a32ed5e7db18f860e6f72d43f64d18ba886cddaf44a4",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 35,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/examples/DMLV_07501_07750.jsonl",
+      "content_bytes": 1441568,
+      "content_sha256": "f32f6e49070243d035d678f2c0c55127e5ac849340fbe4ae14d3068c84095d41",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 36,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/examples/DMLV_07751_08000.jsonl",
+      "content_bytes": 1441267,
+      "content_sha256": "2bf0b0e84e298b76427575e62fba4c85c0605984a831771d07079531df7f3a75",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 37,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/examples/DMLV_08001_08250.jsonl",
+      "content_bytes": 1441651,
+      "content_sha256": "8f7c6fbd7d04562d7e2d2bed05306faf14e8975da21269123ee503effeb21511",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 38,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/examples/DMLV_08251_08500.jsonl",
+      "content_bytes": 1441255,
+      "content_sha256": "c9574b88c2156ce879b4c2cd8e016d90cf1ec795b5f134e4fe6c161b8b345509",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 39,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/examples/DMLV_08501_08750.jsonl",
+      "content_bytes": 1441578,
+      "content_sha256": "5c3aad1192c56505839c8753e745800720de85defaa6f316d3f3d2446b595f21",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 40,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/examples/DMLV_08751_09000.jsonl",
+      "content_bytes": 1441277,
+      "content_sha256": "f0f73a1812caf1237f4c973b4fc6ba89cc3386f48a142c1351d01e3e9d7c5400",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 41,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/examples/DMLV_09001_09250.jsonl",
+      "content_bytes": 1335102,
+      "content_sha256": "126aa2f63585019bf014c35ac802ec4ce3e48e7376e357dfe19228aef9ac1492",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 42,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/examples/DMLV_09251_09500.jsonl",
+      "content_bytes": 1334415,
+      "content_sha256": "425fb85f24e8ab3545593b95bb9cb7dd019f5b3b3fd0b76a81ce5e67c77524e8",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 43,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/examples/DMLV_09501_09750.jsonl",
+      "content_bytes": 1334554,
+      "content_sha256": "f8b1e44f68c6757b6cb58f90d788bacc44f85ec94f8eff02cee129b0ae1a8329",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 44,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/examples/DMLV_09751_10000.jsonl",
+      "content_bytes": 1333938,
+      "content_sha256": "1a5cdcdf16350599dfde12abcb3bd86563288252e6f71ced6ee2c222b6eb09be",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 251,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 45,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/grammar/grammar.ebnf",
+      "content_bytes": 2402,
+      "content_sha256": "fcebe7a226643d859b728003667595b5dd849060510d12de49d6ed16486cb94a",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 46,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/grammar/grammar_specification.md",
+      "content_bytes": 12783,
+      "content_sha256": "cb9075fb34e97218ae2a0f170dada1508b620d1e3627cac353829a5041e0240f",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 47,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/hashes.sha256",
+      "content_bytes": 5170,
+      "content_sha256": "b47bf61634e943bc21daaa57c52ee82cd196584d2a0cad30752eb90e19ea7ba2",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 48,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/language_suite_specification.md",
+      "content_bytes": 10684,
+      "content_sha256": "9f4a1c9410623bd9be0967d6aa4e66fe0377f4a1b82fff28889f525335f0efa7",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 49,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/learning/learning_modules.json",
+      "content_bytes": 21165,
+      "content_sha256": "0a9f29b1fd7b32eb4e077b9ac0ede79517d1863778e3bfa61c85b461672b1ab7",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 50,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/manifest.json",
+      "content_bytes": 8310,
+      "content_sha256": "314311f4a7a92239be62890d190c381897600c15b1cf9af3158ba04f50896274",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 51,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/mcrt/profile.schema.json",
+      "content_bytes": 6930,
+      "content_sha256": "cc3c97469e7f45cb5fc8b0ddfab567744864d5f182e1543d74925f60dd813a94",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 52,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/README.md",
+      "content_bytes": 2791,
+      "content_sha256": "fd9aba220c3fdc67c193215051dbfe05d017c42fe97092b5d723220d850fd36e",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 53,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/runtime/contract.json",
+      "content_bytes": 6906,
+      "content_sha256": "bb1f40206dc455a25837dba32b02bb2b401bc5377a4038bd48d239228109037c",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 54,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/sample_scripts/EX-DMLV-00001.deepml",
+      "content_bytes": 1852,
+      "content_sha256": "98285acfbf2854f5ceec02911d351cb27d74d58d1f902e955da76cdeba400154",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 55,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/sample_scripts/EX-DMLV-00001.record.json",
+      "content_bytes": 14940,
+      "content_sha256": "b78be23ed5218957ac173842a7c2ea7de0409a425a567f131ff11b5c410c1b52",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 56,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/sample_scripts/EX-DMLV-00002.deepml",
+      "content_bytes": 1852,
+      "content_sha256": "13d9ee1cb8b9ea72b5ba6492ba5f9cec329df757200e49a8fb83c1e171aa6ff4",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 57,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/sample_scripts/EX-DMLV-00002.record.json",
+      "content_bytes": 15016,
+      "content_sha256": "5a3069b693c020314291418f2b0493a00a99cd02afffda266e4c1913d0bb694a",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 58,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/sample_scripts/EX-DMLV-00003.deepml",
+      "content_bytes": 1852,
+      "content_sha256": "3d1d12340172bb7455c949569e057e9577c452a2b84eb7d031913ba061a50ea7",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 59,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/sample_scripts/EX-DMLV-00003.record.json",
+      "content_bytes": 15058,
+      "content_sha256": "2ef61051c5f5f35ed7366fd47d12e58fff97caf7dc82274152d9b8b6bf95d179",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 60,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/sample_scripts/EX-DMLV-00004.deepml",
+      "content_bytes": 1852,
+      "content_sha256": "334644cffe05e358519d2b7e9f0983398f3b1957af871d0ceb387c7698a1a18f",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 61,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/sample_scripts/EX-DMLV-00004.record.json",
+      "content_bytes": 15130,
+      "content_sha256": "73cda3d4a501a82f457fa21c3cd6741c4712934bbb2aa21c8c7dd1f70ef8f667",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 62,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/sample_scripts/EX-DMLV-00005.deepml",
+      "content_bytes": 1852,
+      "content_sha256": "252c3f7ec618dfa744642aec4de1ceb73c93f383fa4d9f7c8703f15679ffc6dd",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 63,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/sample_scripts/EX-DMLV-00005.record.json",
+      "content_bytes": 15151,
+      "content_sha256": "502abead6530668818caa82d0d99c9b8caffeeeafd1af8448d4afa41e80e493d",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 64,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/sample_scripts/EX-DMLV-01000.deepml",
+      "content_bytes": 1855,
+      "content_sha256": "d9b2c4e5c113f83f1749efac9184970b293f5c598c94ca193720cf8ad6089cde",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 65,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/sample_scripts/EX-DMLV-01000.record.json",
+      "content_bytes": 14951,
+      "content_sha256": "53d5fdd4f5346bce44ed3cf26802e393cfdf5005ed0195b1077de6367c59edf6",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 66,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/sample_scripts/EX-DMLV-01001.deepml",
+      "content_bytes": 1837,
+      "content_sha256": "b8890116557ee19713a24474265656385d34c8c69876303c7bdfb981a0310ad4",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 67,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/sample_scripts/EX-DMLV-01001.record.json",
+      "content_bytes": 15145,
+      "content_sha256": "16c634b030af72ad9d766d201bdf33dd119a27d52d732d4042636ef457e2a687",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 68,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/sample_scripts/EX-DMLV-01002.deepml",
+      "content_bytes": 1837,
+      "content_sha256": "a0df57ab3cb3573e1961457b6d260ecabe40734445c54ac07402c30eb5571561",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 69,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/sample_scripts/EX-DMLV-01002.record.json",
+      "content_bytes": 15126,
+      "content_sha256": "f23dcf575e3fa26efe94465d055ef03ce03274fab1a7719cf8985ea21aab6da4",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 70,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/sample_scripts/EX-DMLV-02500.deepml",
+      "content_bytes": 1837,
+      "content_sha256": "8b0719212b8549d689167488e5cbe047fc16aec7e5ae34bb2e44b6013f565a2f",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 71,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/sample_scripts/EX-DMLV-02500.record.json",
+      "content_bytes": 14955,
+      "content_sha256": "4736f5b5b555d861acddf087aadb63472f3c061b1c73de9771085d6b4eff8c65",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 72,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/sample_scripts/EX-DMLV-02501.deepml",
+      "content_bytes": 1873,
+      "content_sha256": "89d9ba123335b8557b239afa6ae8ef60bfeacf49c727f2589ed5a0e4d5defe6c",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 73,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/sample_scripts/EX-DMLV-02501.record.json",
+      "content_bytes": 15264,
+      "content_sha256": "a163491589cf197e35c8e44f8f50be08df8875017b98c1f929e4f90bd21e1853",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 74,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/sample_scripts/EX-DMLV-02502.deepml",
+      "content_bytes": 1911,
+      "content_sha256": "460335056628aa72290739149fae8da19a5ad840ec5ca76bb5d7b7cef21493c8",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 75,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/sample_scripts/EX-DMLV-02502.record.json",
+      "content_bytes": 13691,
+      "content_sha256": "0c9f43fd57a261282fefda5770bd6d98914d26c667384f1bbe62625d9f1df472",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 76,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/sample_scripts/EX-DMLV-05000.deepml",
+      "content_bytes": 1873,
+      "content_sha256": "92f52e7e28eb826db49189c7ef0f3105ab06e02916ff7f2fc28285ecb8a3b796",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 77,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/sample_scripts/EX-DMLV-05000.record.json",
+      "content_bytes": 15243,
+      "content_sha256": "4d411678f440d71e23beaf74a22b48f822b3288861ed3b3696af3735b6bb2e4e",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 78,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/sample_scripts/EX-DMLV-05001.deepml",
+      "content_bytes": 1910,
+      "content_sha256": "1ffd52df71b6c86be301f4964736aa05e479cc18ec553c62ca1da4816d653538",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 79,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/sample_scripts/EX-DMLV-05001.record.json",
+      "content_bytes": 15233,
+      "content_sha256": "97c4503f60d707743c7e3066534abc54ee231539be7bc788a213fedb89103f5a",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 80,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/sample_scripts/EX-DMLV-05002.deepml",
+      "content_bytes": 1910,
+      "content_sha256": "274c7d57f900f26e53f3f1800da14dce73af0d5464d5fd458f8216f7c78ac132",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 81,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/sample_scripts/EX-DMLV-05002.record.json",
+      "content_bytes": 15292,
+      "content_sha256": "5d421373366902f6d593866eeee11e58152cf294a086c547bfa631a05a6d107b",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 82,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/sample_scripts/EX-DMLV-07500.deepml",
+      "content_bytes": 1910,
+      "content_sha256": "793a2e14ae9e13e5586d39e2e8d62e9bd0b4d23f4677065a45c48dce13dbf37a",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 83,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/sample_scripts/EX-DMLV-07500.record.json",
+      "content_bytes": 15216,
+      "content_sha256": "3923eeef9b5b76282d96d1154cbb8fdaca71c8b835dd0f4361ea7311f30e2e67",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 84,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/sample_scripts/EX-DMLV-07501.deepml",
+      "content_bytes": 1842,
+      "content_sha256": "2639ca442589e3044bd23b6711e2ee3f110b9053a372ddf4cab117478d5dd90d",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 85,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/sample_scripts/EX-DMLV-07501.record.json",
+      "content_bytes": 15208,
+      "content_sha256": "061680185b09951637e82fe31cffbca99b50d9e84d4ecd7fe621d957668185fe",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 86,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/sample_scripts/EX-DMLV-07502.deepml",
+      "content_bytes": 1842,
+      "content_sha256": "5ac4370071bafa24ca2598725c6f703a8fb8577474f03c89f369b3ed603b5f32",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 87,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/sample_scripts/EX-DMLV-07502.record.json",
+      "content_bytes": 15142,
+      "content_sha256": "bca01a21cf24d61d59f9dbd0468bfa40583551b83a081f4a8f1ff7e169801b68",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 88,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/sample_scripts/EX-DMLV-09000.deepml",
+      "content_bytes": 1842,
+      "content_sha256": "418f9223540b68c6f62a5fb24476936cd2ae360788cdfd18c348bcf4e88cea9f",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 89,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/sample_scripts/EX-DMLV-09000.record.json",
+      "content_bytes": 15138,
+      "content_sha256": "4358c67ead033cbfc3220ff060aedba59a8445aeee3f56a84dd5954f3b6ef3fd",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 90,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/sample_scripts/EX-DMLV-09001.deepml",
+      "content_bytes": 1542,
+      "content_sha256": "df3eedf6d1c5d6d7bdbb2a9b84f30abe89aad3c8e59f4a184f32ba5e8d98bbbf",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 91,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/sample_scripts/EX-DMLV-09001.record.json",
+      "content_bytes": 13223,
+      "content_sha256": "19539bf78d5d42cdc8715fd22148206b493c34a94ccc3d951c1a2e73e82aefa7",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 92,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/sample_scripts/EX-DMLV-09002.deepml",
+      "content_bytes": 1524,
+      "content_sha256": "e4a4f20d7393758c7fa8559b5f38b0f7952628c387b4243484a15ad7286d1cc1",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 93,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/sample_scripts/EX-DMLV-09002.record.json",
+      "content_bytes": 13219,
+      "content_sha256": "0e393f6e8aeff0bd366c959912ad31b4eab14a020eb6874bcb44e077cc941303",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 94,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/sample_scripts/EX-DMLV-09998.deepml",
+      "content_bytes": 1551,
+      "content_sha256": "98b1f3665ef02f87800921ee9626152ef507fae94e992fdd87ac8683d37ac034",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 95,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/sample_scripts/EX-DMLV-09998.record.json",
+      "content_bytes": 13199,
+      "content_sha256": "1d16169120aff95f244048ef23fb92c0832f4f8b916500b27a58a56fee42ece1",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 96,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/sample_scripts/EX-DMLV-09999.deepml",
+      "content_bytes": 1514,
+      "content_sha256": "03b161f4d8f335bf412bbb30dbe6a34e6530c4173052cb89347888026116723a",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 97,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/sample_scripts/EX-DMLV-09999.record.json",
+      "content_bytes": 13187,
+      "content_sha256": "f7e0482abbd0922ae3c11df78851419ec71c3d7d1670e95f7c036225367c53dd",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 98,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/sample_scripts/EX-DMLV-10000.deepml",
+      "content_bytes": 1530,
+      "content_sha256": "f9e80a0e222f9bc56b999ca99aa987783f7ababbbe6e8b8026a355e5d4bf84de",
+      "check": "full_text_read_hash",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 99,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/sample_scripts/EX-DMLV-10000.record.json",
+      "content_bytes": 13278,
+      "content_sha256": "a81bdf708f54b1db11652b65644e7007c9a50bfe660949e1a52ecdac19384676",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 100,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/semantic/operators.json",
+      "content_bytes": 25122,
+      "content_sha256": "486c471fc82185da6e1f6c4b9b4870cd4c5b0f4ce93853093893ee773f5ce45f",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 101,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/validation/conformance_cases.jsonl",
+      "content_bytes": 89381,
+      "content_sha256": "fb26d27bb7f79b561793d83db826df6b11a42a00039b8d506daff0d11d605750",
+      "check": "all_embedded_jsonl_records",
+      "embedded_records": 101,
+      "invalid": 0
+    },
+    {
+      "wrapper": "payload/JA21-DeepML-Animation-VFX-Language-Suite-1.0.0-main/JA21_DMLV_Suite_1.0.0.expanded/JA21_DMLV_Suite_1.0.0/reference_source/source_corpus.jsonl.gz",
+      "line": 102,
+      "original_id": "Corpora(2).zip::SCL_deepml_vfx_Corpus_1.0/deepml_vfx/validation/coverage_expectations.json",
+      "content_bytes": 7077,
+      "content_sha256": "6349c9038dce2e5fd4e8c6be4918b063401dd461b962e67aaf84618fd4bfb974",
+      "check": "embedded_json_parse",
+      "embedded_records": 0
+    }
+  ],
+  "findings": [],
+  "note": "Embedded record totals overlap reconstructed datasets. They are additional coverage, not unique training examples."
+}
